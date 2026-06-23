@@ -6,7 +6,7 @@ A data-driven playing XI decision tool for IPL franchises, built using 2022–20
 
 ```bash
 pip install -r requirements.txt
-streamlit run app.py
+python -m streamlit run app.py
 ```
 
 ## Data Sources
