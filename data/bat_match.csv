@@ -1,0 +1,1133 @@
+match_no,date,batting_team,striker,venue,runs,balls,fours,sixes,dismissed,sr
+1,2026-03-28,RCB,Devdutt Padikkal,M. Chinnaswamy Stadium,61,26,7,4,1,234.62
+1,2026-03-28,RCB,Jitesh Sharma,M. Chinnaswamy Stadium,0,1,0,0,1,0.0
+1,2026-03-28,RCB,Phil Salt,M. Chinnaswamy Stadium,8,7,2,0,1,114.29
+1,2026-03-28,RCB,Rajat Patidar,M. Chinnaswamy Stadium,31,12,2,3,1,258.33
+1,2026-03-28,RCB,Tim David,M. Chinnaswamy Stadium,16,10,1,1,0,160.0
+1,2026-03-28,RCB,Virat Kohli,M. Chinnaswamy Stadium,69,39,5,5,1,176.92
+1,2026-03-28,SRH,Abhishek Sharma,M. Chinnaswamy Stadium,7,8,0,1,1,87.5
+1,2026-03-28,SRH,Aniket Verma,M. Chinnaswamy Stadium,43,18,3,4,1,238.89
+1,2026-03-28,SRH,David Payne,M. Chinnaswamy Stadium,6,5,0,0,0,120.0
+1,2026-03-28,SRH,Harsh Dubey,M. Chinnaswamy Stadium,3,3,0,0,1,100.0
+1,2026-03-28,SRH,Harshal Patel,M. Chinnaswamy Stadium,0,2,0,0,1,0.0
+1,2026-03-28,SRH,Heinrich Klaasen,M. Chinnaswamy Stadium,31,22,2,1,1,140.91
+1,2026-03-28,SRH,Ishan Kishan,M. Chinnaswamy Stadium,81,39,8,5,1,207.69
+1,2026-03-28,SRH,Jaydev Unadkat,M. Chinnaswamy Stadium,4,3,0,0,0,133.33
+1,2026-03-28,SRH,Nitish Reddy,M. Chinnaswamy Stadium,1,6,0,0,1,16.67
+1,2026-03-28,SRH,Salil Arora,M. Chinnaswamy Stadium,9,6,0,1,1,150.0
+1,2026-03-28,SRH,Travis Head,M. Chinnaswamy Stadium,11,9,2,0,1,122.22
+2,2026-03-29,KKR,Ajinkya Rahane,Wankhede Stadium,67,40,3,5,1,167.5
+2,2026-03-29,KKR,Angkrish Raghuvanshi,Wankhede Stadium,51,29,6,2,1,175.86
+2,2026-03-29,KKR,Cameron Green,Wankhede Stadium,18,10,1,1,1,180.0
+2,2026-03-29,KKR,Finn Allen,Wankhede Stadium,37,17,6,2,1,217.65
+2,2026-03-29,KKR,Ramandeep Singh,Wankhede Stadium,4,4,0,0,0,100.0
+2,2026-03-29,KKR,Rinku Singh,Wankhede Stadium,33,21,4,0,0,157.14
+2,2026-03-29,MI,Hardik Pandya,Wankhede Stadium,18,11,3,0,0,163.64
+2,2026-03-29,MI,Naman Dhir,Wankhede Stadium,5,2,1,0,0,250.0
+2,2026-03-29,MI,Rohit Sharma,Wankhede Stadium,78,38,6,6,1,205.26
+2,2026-03-29,MI,Ryan Rickelton,Wankhede Stadium,81,43,4,8,1,188.37
+2,2026-03-29,MI,Suryakumar Yadav,Wankhede Stadium,16,8,3,0,1,200.0
+2,2026-03-29,MI,Tilak Varma,Wankhede Stadium,20,14,4,0,1,142.86
+3,2026-03-30,CSK,Anshul Kamboj,Barsapara Stadium,8,10,1,0,0,80.0
+3,2026-03-30,CSK,Ayush Mhatre,Barsapara Stadium,0,1,0,0,1,0.0
+3,2026-03-30,CSK,Jamie Overton,Barsapara Stadium,43,36,2,2,1,119.44
+3,2026-03-30,CSK,Kartik Sharma,Barsapara Stadium,18,15,0,1,1,120.0
+3,2026-03-30,CSK,Matt Henry,Barsapara Stadium,5,7,1,0,1,71.43
+3,2026-03-30,CSK,Matthew Short,Barsapara Stadium,2,7,0,0,1,28.57
+3,2026-03-30,CSK,Noor Ahmad,Barsapara Stadium,1,9,0,0,1,11.11
+3,2026-03-30,CSK,Ruturaj Gaikwad,Barsapara Stadium,6,11,1,0,1,54.55
+3,2026-03-30,CSK,Sanju Samson,Barsapara Stadium,6,7,1,0,1,85.71
+3,2026-03-30,CSK,Sarfaraz Khan,Barsapara Stadium,17,12,2,1,1,141.67
+3,2026-03-30,CSK,Shivam Dube,Barsapara Stadium,6,4,0,1,1,150.0
+3,2026-03-30,RR,Dhruv Jurel,Barsapara Stadium,18,9,4,0,1,200.0
+3,2026-03-30,RR,Riyan Parag,Barsapara Stadium,14,11,1,1,0,127.27
+3,2026-03-30,RR,Vaibhav Sooryavanshi,Barsapara Stadium,52,17,4,5,1,305.88
+3,2026-03-30,RR,Yashasvi Jaiswal,Barsapara Stadium,38,36,3,1,0,105.56
+4,2026-03-31,GT,Glenn Phillips,New PCA Cricket Stadium,25,17,1,1,1,147.06
+4,2026-03-31,GT,Jos Buttler,New PCA Cricket Stadium,38,33,3,2,1,115.15
+4,2026-03-31,GT,Rahul Tewatia,New PCA Cricket Stadium,11,10,1,0,0,110.0
+4,2026-03-31,GT,Rashid Khan,New PCA Cricket Stadium,0,1,0,0,0,0.0
+4,2026-03-31,GT,Sai Sudharsan,New PCA Cricket Stadium,13,11,2,0,1,118.18
+4,2026-03-31,GT,Shahrukh Khan,New PCA Cricket Stadium,4,6,0,0,1,66.67
+4,2026-03-31,GT,Shubman Gill,New PCA Cricket Stadium,39,27,6,0,1,144.44
+4,2026-03-31,GT,Washington Sundar,New PCA Cricket Stadium,18,16,2,0,1,112.5
+4,2026-03-31,PBKS,Cooper Connolly,New PCA Cricket Stadium,72,44,5,5,0,163.64
+4,2026-03-31,PBKS,Marco Jansen,New PCA Cricket Stadium,9,10,0,1,1,90.0
+4,2026-03-31,PBKS,Marcus Stoinis,New PCA Cricket Stadium,0,2,0,0,1,0.0
+4,2026-03-31,PBKS,Nehal Wadhera,New PCA Cricket Stadium,3,6,0,0,1,50.0
+4,2026-03-31,PBKS,Prabhsimran Singh,New PCA Cricket Stadium,37,24,1,4,1,154.17
+4,2026-03-31,PBKS,Priyansh Arya,New PCA Cricket Stadium,7,8,0,1,1,87.5
+4,2026-03-31,PBKS,Shashank Singh,New PCA Cricket Stadium,4,5,0,0,1,80.0
+4,2026-03-31,PBKS,Shreyas Iyer,New PCA Cricket Stadium,18,11,0,2,1,163.64
+4,2026-03-31,PBKS,Xavier Bartlett,New PCA Cricket Stadium,11,5,0,1,0,220.0
+5,2026-04-01,DC,Axar Patel,Ekana Cricket Stadium,0,1,0,0,1,0.0
+5,2026-04-01,DC,Nitish Rana,Ekana Cricket Stadium,15,17,2,1,1,88.24
+5,2026-04-01,DC,Pathum Nissanka,Ekana Cricket Stadium,1,5,0,0,1,20.0
+5,2026-04-01,DC,Rahul,Ekana Cricket Stadium,0,1,0,0,1,0.0
+5,2026-04-01,DC,Sameer Rizvi,Ekana Cricket Stadium,70,47,5,4,0,148.94
+5,2026-04-01,DC,Tristan Stubbs,Ekana Cricket Stadium,39,32,3,1,0,121.88
+5,2026-04-01,LSG,Abdul Samad,Ekana Cricket Stadium,36,25,3,1,1,144.0
+5,2026-04-01,LSG,Aiden Markram,Ekana Cricket Stadium,11,8,1,1,1,137.5
+5,2026-04-01,LSG,Anrich Nortje,Ekana Cricket Stadium,0,1,0,0,1,0.0
+5,2026-04-01,LSG,Ayush Badoni,Ekana Cricket Stadium,0,3,0,0,1,0.0
+5,2026-04-01,LSG,Mitchell Marsh,Ekana Cricket Stadium,35,28,2,3,1,125.0
+5,2026-04-01,LSG,Mohammed Shami,Ekana Cricket Stadium,1,2,0,0,1,50.0
+5,2026-04-01,LSG,Mohsin Khan,Ekana Cricket Stadium,0,1,0,0,1,0.0
+5,2026-04-01,LSG,Mukul Choudhary,Ekana Cricket Stadium,14,11,2,0,1,127.27
+5,2026-04-01,LSG,Nicholas Pooran,Ekana Cricket Stadium,8,8,1,0,1,100.0
+5,2026-04-01,LSG,Rishabh Pant,Ekana Cricket Stadium,7,9,1,0,0,77.78
+5,2026-04-01,LSG,Shahbaz Ahmed,Ekana Cricket Stadium,15,16,1,0,0,93.75
+6,2026-04-02,KKR,Ajinkya Rahane,Eden Gardens,8,10,0,0,1,80.0
+6,2026-04-02,KKR,Angkrish Raghuvanshi,Eden Gardens,52,29,6,2,1,179.31
+6,2026-04-02,KKR,Anukul Roy,Eden Gardens,0,2,0,0,1,0.0
+6,2026-04-02,KKR,Cameron Green,Eden Gardens,2,2,0,0,0,100.0
+6,2026-04-02,KKR,Finn Allen,Eden Gardens,28,7,4,2,1,400.0
+6,2026-04-02,KKR,Kartik Tyagi,Eden Gardens,5,5,1,0,1,100.0
+6,2026-04-02,KKR,Ramandeep Singh,Eden Gardens,10,9,1,0,1,111.11
+6,2026-04-02,KKR,Rinku Singh,Eden Gardens,35,25,4,1,1,140.0
+6,2026-04-02,KKR,Sunil Narine,Eden Gardens,12,4,0,2,1,300.0
+6,2026-04-02,KKR,Vaibhav Arora,Eden Gardens,1,2,0,0,0,50.0
+6,2026-04-02,KKR,Varun Chakaravarthy,Eden Gardens,0,1,0,0,1,0.0
+6,2026-04-02,SRH,Abhishek Sharma,Eden Gardens,48,21,4,4,1,228.57
+6,2026-04-02,SRH,Aniket Verma,Eden Gardens,1,4,0,0,1,25.0
+6,2026-04-02,SRH,Harsh Dubey,Eden Gardens,9,3,2,0,0,300.0
+6,2026-04-02,SRH,Heinrich Klaasen,Eden Gardens,52,35,4,1,1,148.57
+6,2026-04-02,SRH,Ishan Kishan,Eden Gardens,14,9,3,0,1,155.56
+6,2026-04-02,SRH,Nitish Reddy,Eden Gardens,39,24,4,1,1,162.5
+6,2026-04-02,SRH,Salil Arora,Eden Gardens,0,1,0,0,1,0.0
+6,2026-04-02,SRH,Shivang Kumar,Eden Gardens,4,2,1,0,1,200.0
+6,2026-04-02,SRH,Travis Head,Eden Gardens,46,21,6,3,1,219.05
+7,2026-04-03,CSK,Ayush Mhatre,MA Chidambaram Stadium,73,43,6,5,1,169.77
+7,2026-04-03,CSK,Kartik Sharma,MA Chidambaram Stadium,1,3,0,0,1,33.33
+7,2026-04-03,CSK,Prashant Veer,MA Chidambaram Stadium,6,7,1,0,0,85.71
+7,2026-04-03,CSK,Ruturaj Gaikwad,MA Chidambaram Stadium,28,22,2,0,1,127.27
+7,2026-04-03,CSK,Sanju Samson,MA Chidambaram Stadium,7,7,1,0,1,100.0
+7,2026-04-03,CSK,Sarfaraz Khan,MA Chidambaram Stadium,32,12,6,1,1,266.67
+7,2026-04-03,CSK,Shivam Dube,MA Chidambaram Stadium,45,27,5,1,0,166.67
+7,2026-04-03,PBKS,Cooper Connolly,MA Chidambaram Stadium,36,22,6,0,1,163.64
+7,2026-04-03,PBKS,Marcus Stoinis,MA Chidambaram Stadium,9,3,2,0,0,300.0
+7,2026-04-03,PBKS,Nehal Wadhera,MA Chidambaram Stadium,10,9,0,1,1,111.11
+7,2026-04-03,PBKS,Prabhsimran Singh,MA Chidambaram Stadium,43,34,6,1,1,126.47
+7,2026-04-03,PBKS,Priyansh Arya,MA Chidambaram Stadium,39,11,3,4,1,354.55
+7,2026-04-03,PBKS,Shashank Singh,MA Chidambaram Stadium,14,6,2,0,0,233.33
+7,2026-04-03,PBKS,Shreyas Iyer,MA Chidambaram Stadium,50,29,4,3,1,172.41
+8,2026-04-04,DC,David Miller,Arun Jaitley Stadium,21,18,4,0,0,116.67
+8,2026-04-04,DC,Nitish Rana,Arun Jaitley Stadium,0,3,0,0,1,0.0
+8,2026-04-04,DC,Pathum Nissanka,Arun Jaitley Stadium,44,30,6,1,1,146.67
+8,2026-04-04,DC,Rahul,Arun Jaitley Stadium,1,3,0,0,1,33.33
+8,2026-04-04,DC,Sameer Rizvi,Arun Jaitley Stadium,90,51,7,7,1,176.47
+8,2026-04-04,DC,Tristan Stubbs,Arun Jaitley Stadium,3,4,0,0,0,75.0
+8,2026-04-04,MI,Corbin Bosch,Arun Jaitley Stadium,11,4,2,0,0,275.0
+8,2026-04-04,MI,Mitchell Santner,Arun Jaitley Stadium,18,13,2,0,0,138.46
+8,2026-04-04,MI,Naman Dhir,Arun Jaitley Stadium,28,21,2,1,1,133.33
+8,2026-04-04,MI,Rohit Sharma,Arun Jaitley Stadium,35,26,5,1,1,134.62
+8,2026-04-04,MI,Ryan Rickelton,Arun Jaitley Stadium,9,11,2,0,1,81.82
+8,2026-04-04,MI,Sherfane Rutherford,Arun Jaitley Stadium,5,7,1,0,1,71.43
+8,2026-04-04,MI,Suryakumar Yadav,Arun Jaitley Stadium,51,36,3,2,1,141.67
+8,2026-04-04,MI,Tilak Varma,Arun Jaitley Stadium,0,2,0,0,1,0.0
+9,2026-04-04,GT,Ashok Sharma,Narendra Modi Stadium,0,1,0,0,0,0.0
+9,2026-04-04,GT,Glenn Phillips,Narendra Modi Stadium,3,4,0,0,1,75.0
+9,2026-04-04,GT,Jos Buttler,Narendra Modi Stadium,26,14,5,0,1,185.71
+9,2026-04-04,GT,Kagiso Rabada,Narendra Modi Stadium,23,16,1,2,0,143.75
+9,2026-04-04,GT,Kumar Kushagra,Narendra Modi Stadium,18,14,3,0,1,128.57
+9,2026-04-04,GT,Rahul Tewatia,Narendra Modi Stadium,12,6,1,1,1,200.0
+9,2026-04-04,GT,Rashid Khan,Narendra Modi Stadium,24,16,3,0,1,150.0
+9,2026-04-04,GT,Sai Sudharsan,Narendra Modi Stadium,73,44,9,3,1,165.91
+9,2026-04-04,GT,Shahrukh Khan,Narendra Modi Stadium,11,4,1,1,0,275.0
+9,2026-04-04,GT,Washington Sundar,Narendra Modi Stadium,4,2,1,0,1,200.0
+9,2026-04-04,RR,Dhruv Jurel,Narendra Modi Stadium,75,42,5,5,1,178.57
+9,2026-04-04,RR,Donovan Ferreira,Narendra Modi Stadium,1,3,0,0,1,33.33
+9,2026-04-04,RR,Jofra Archer,Narendra Modi Stadium,1,2,0,0,0,50.0
+9,2026-04-04,RR,Ravindra Jadeja,Narendra Modi Stadium,7,7,1,0,0,100.0
+9,2026-04-04,RR,Riyan Parag,Narendra Modi Stadium,8,4,0,1,1,200.0
+9,2026-04-04,RR,Shimron Hetmyer,Narendra Modi Stadium,18,8,1,2,1,225.0
+9,2026-04-04,RR,Vaibhav Sooryavanshi,Narendra Modi Stadium,31,18,5,1,1,172.22
+9,2026-04-04,RR,Yashasvi Jaiswal,Narendra Modi Stadium,55,36,6,3,1,152.78
+10,2026-04-05,LSG,Abdul Samad,Rajiv Gandhi International Stadium,16,12,2,0,1,133.33
+10,2026-04-05,LSG,Aiden Markram,Rajiv Gandhi International Stadium,45,27,6,2,1,166.67
+10,2026-04-05,LSG,Ayush Badoni,Rajiv Gandhi International Stadium,12,9,1,0,1,133.33
+10,2026-04-05,LSG,Mitchell Marsh,Rajiv Gandhi International Stadium,14,12,2,0,1,116.67
+10,2026-04-05,LSG,Mukul Choudhary,Rajiv Gandhi International Stadium,2,5,0,0,0,40.0
+10,2026-04-05,LSG,Nicholas Pooran,Rajiv Gandhi International Stadium,1,4,0,0,1,25.0
+10,2026-04-05,LSG,Rishabh Pant,Rajiv Gandhi International Stadium,68,51,9,0,0,133.33
+10,2026-04-05,SRH,Abhishek Sharma,Rajiv Gandhi International Stadium,0,2,0,0,1,0.0
+10,2026-04-05,SRH,Aniket Verma,Rajiv Gandhi International Stadium,2,5,0,0,1,40.0
+10,2026-04-05,SRH,Harsh Dubey,Rajiv Gandhi International Stadium,0,1,0,0,1,0.0
+10,2026-04-05,SRH,Harshal Patel,Rajiv Gandhi International Stadium,4,2,1,0,0,200.0
+10,2026-04-05,SRH,Heinrich Klaasen,Rajiv Gandhi International Stadium,62,41,5,2,1,151.22
+10,2026-04-05,SRH,Ishan Kishan,Rajiv Gandhi International Stadium,1,4,0,0,1,25.0
+10,2026-04-05,SRH,Liam Livingstone,Rajiv Gandhi International Stadium,14,20,0,1,1,70.0
+10,2026-04-05,SRH,Nitish Reddy,Rajiv Gandhi International Stadium,56,33,3,5,1,169.7
+10,2026-04-05,SRH,Shivang Kumar,Rajiv Gandhi International Stadium,5,4,1,0,1,125.0
+10,2026-04-05,SRH,Travis Head,Rajiv Gandhi International Stadium,7,8,1,0,1,87.5
+11,2026-04-05,CSK,Anshul Kamboj,M. Chinnaswamy Stadium,19,12,1,1,0,158.33
+11,2026-04-05,CSK,Ayush Mhatre,M. Chinnaswamy Stadium,1,3,0,0,1,33.33
+11,2026-04-05,CSK,Jamie Overton,M. Chinnaswamy Stadium,37,16,4,2,1,231.25
+11,2026-04-05,CSK,Kartik Sharma,M. Chinnaswamy Stadium,6,3,0,1,1,200.0
+11,2026-04-05,CSK,Matt Henry,M. Chinnaswamy Stadium,2,3,0,0,1,66.67
+11,2026-04-05,CSK,Noor Ahmad,M. Chinnaswamy Stadium,8,8,0,1,1,100.0
+11,2026-04-05,CSK,Prashant Veer,M. Chinnaswamy Stadium,43,29,6,1,1,148.28
+11,2026-04-05,CSK,Ruturaj Gaikwad,M. Chinnaswamy Stadium,7,3,0,1,1,233.33
+11,2026-04-05,CSK,Sanju Samson,M. Chinnaswamy Stadium,9,5,0,1,1,180.0
+11,2026-04-05,CSK,Sarfaraz Khan,M. Chinnaswamy Stadium,50,25,8,2,1,200.0
+11,2026-04-05,CSK,Shivam Dube,M. Chinnaswamy Stadium,18,13,2,1,1,138.46
+11,2026-04-05,RCB,Devdutt Padikkal,M. Chinnaswamy Stadium,50,29,5,2,1,172.41
+11,2026-04-05,RCB,Phil Salt,M. Chinnaswamy Stadium,46,30,3,2,1,153.33
+11,2026-04-05,RCB,Rajat Patidar,M. Chinnaswamy Stadium,48,19,1,6,0,252.63
+11,2026-04-05,RCB,Tim David,M. Chinnaswamy Stadium,70,25,3,8,0,280.0
+11,2026-04-05,RCB,Virat Kohli,M. Chinnaswamy Stadium,28,18,2,1,1,155.56
+12,2026-04-06,KKR,Ajinkya Rahane,Eden Gardens,8,6,1,0,0,133.33
+12,2026-04-06,KKR,Angkrish Raghuvanshi,Eden Gardens,7,7,0,0,0,100.0
+12,2026-04-06,KKR,Cameron Green,Eden Gardens,4,2,1,0,1,200.0
+12,2026-04-06,KKR,Finn Allen,Eden Gardens,6,7,1,0,1,85.71
+13,2026-04-07,MI,Deepak Chahar,Barsapara Stadium,6,5,1,0,0,120.0
+13,2026-04-07,MI,Hardik Pandya,Barsapara Stadium,9,6,2,0,1,150.0
+13,2026-04-07,MI,Jasprit Bumrah,Barsapara Stadium,5,2,1,0,0,250.0
+13,2026-04-07,MI,Naman Dhir,Barsapara Stadium,25,13,3,1,1,192.31
+13,2026-04-07,MI,Rohit Sharma,Barsapara Stadium,5,6,0,0,1,83.33
+13,2026-04-07,MI,Ryan Rickelton,Barsapara Stadium,8,4,0,1,1,200.0
+13,2026-04-07,MI,Shardul Thakur,Barsapara Stadium,8,7,1,0,1,114.29
+13,2026-04-07,MI,Sherfane Rutherford,Barsapara Stadium,25,8,2,2,1,312.5
+13,2026-04-07,MI,Suryakumar Yadav,Barsapara Stadium,6,3,0,1,1,200.0
+13,2026-04-07,MI,Tilak Varma,Barsapara Stadium,14,10,2,0,1,140.0
+13,2026-04-07,MI,Trent Boult,Barsapara Stadium,1,2,0,0,1,50.0
+13,2026-04-07,RR,Dhruv Jurel,Barsapara Stadium,2,3,0,0,1,66.67
+13,2026-04-07,RR,Riyan Parag,Barsapara Stadium,20,10,1,2,1,200.0
+13,2026-04-07,RR,Shimron Hetmyer,Barsapara Stadium,6,7,0,0,0,85.71
+13,2026-04-07,RR,Vaibhav Sooryavanshi,Barsapara Stadium,39,14,1,5,1,278.57
+13,2026-04-07,RR,Yashasvi Jaiswal,Barsapara Stadium,77,32,10,4,0,240.62
+14,2026-04-08,DC,Axar Patel,Arun Jaitley Stadium,2,3,0,0,1,66.67
+14,2026-04-08,DC,David Miller,Arun Jaitley Stadium,41,20,3,3,1,205.0
+14,2026-04-08,DC,Kuldeep Yadav,Arun Jaitley Stadium,1,1,0,0,0,100.0
+14,2026-04-08,DC,Nitish Rana,Arun Jaitley Stadium,5,6,1,0,1,83.33
+14,2026-04-08,DC,Pathum Nissanka,Arun Jaitley Stadium,41,24,6,1,1,170.83
+14,2026-04-08,DC,Rahul,Arun Jaitley Stadium,92,52,11,4,1,176.92
+14,2026-04-08,DC,Sameer Rizvi,Arun Jaitley Stadium,0,1,0,0,1,0.0
+14,2026-04-08,DC,Tristan Stubbs,Arun Jaitley Stadium,7,6,0,0,0,116.67
+14,2026-04-08,DC,Vipraj Nigam,Arun Jaitley Stadium,12,7,2,0,1,171.43
+14,2026-04-08,GT,Glenn Phillips,Arun Jaitley Stadium,14,9,1,1,0,155.56
+14,2026-04-08,GT,Jos Buttler,Arun Jaitley Stadium,52,27,3,5,1,192.59
+14,2026-04-08,GT,Rahul Tewatia,Arun Jaitley Stadium,1,1,0,0,0,100.0
+14,2026-04-08,GT,Sai Sudharsan,Arun Jaitley Stadium,12,7,2,0,1,171.43
+14,2026-04-08,GT,Shubman Gill,Arun Jaitley Stadium,70,45,4,5,1,155.56
+14,2026-04-08,GT,Washington Sundar,Arun Jaitley Stadium,55,32,6,2,1,171.88
+15,2026-04-09,KKR,Ajinkya Rahane,Eden Gardens,41,24,4,2,1,170.83
+15,2026-04-09,KKR,Angkrish Raghuvanshi,Eden Gardens,45,33,5,2,1,136.36
+15,2026-04-09,KKR,Cameron Green,Eden Gardens,32,24,3,1,0,133.33
+15,2026-04-09,KKR,Finn Allen,Eden Gardens,9,8,2,0,1,112.5
+15,2026-04-09,KKR,Rinku Singh,Eden Gardens,4,7,0,0,1,57.14
+15,2026-04-09,KKR,Rovman Powell,Eden Gardens,39,24,4,2,0,162.5
+15,2026-04-09,LSG,Abdul Samad,Eden Gardens,2,4,0,0,1,50.0
+15,2026-04-09,LSG,Aiden Markram,Eden Gardens,22,15,2,1,1,146.67
+15,2026-04-09,LSG,Avesh Khan,Eden Gardens,1,3,0,0,0,33.33
+15,2026-04-09,LSG,Ayush Badoni,Eden Gardens,54,34,7,2,1,158.82
+15,2026-04-09,LSG,Mitchell Marsh,Eden Gardens,15,11,1,1,1,136.36
+15,2026-04-09,LSG,Mohammed Shami,Eden Gardens,1,3,0,0,1,33.33
+15,2026-04-09,LSG,Mukul Choudhary,Eden Gardens,54,27,2,7,0,200.0
+15,2026-04-09,LSG,Nicholas Pooran,Eden Gardens,13,15,0,1,1,86.67
+15,2026-04-09,LSG,Rishabh Pant,Eden Gardens,10,9,1,0,1,111.11
+16,2026-04-10,RCB,Bhuvneshwar Kumar,Barsapara Stadium,9,7,1,0,0,128.57
+16,2026-04-10,RCB,Devdutt Padikkal,Barsapara Stadium,14,7,3,0,1,200.0
+16,2026-04-10,RCB,Jitesh Sharma,Barsapara Stadium,6,9,0,0,1,66.67
+16,2026-04-10,RCB,Krunal Pandya,Barsapara Stadium,1,6,0,0,1,16.67
+16,2026-04-10,RCB,Phil Salt,Barsapara Stadium,0,1,0,0,1,0.0
+16,2026-04-10,RCB,Rajat Patidar,Barsapara Stadium,62,39,4,4,1,158.97
+16,2026-04-10,RCB,Romario Shepherd,Barsapara Stadium,22,11,2,1,1,200.0
+16,2026-04-10,RCB,Tim David,Barsapara Stadium,13,9,2,0,1,144.44
+16,2026-04-10,RCB,Venkatesh Iyer,Barsapara Stadium,29,15,1,2,0,193.33
+16,2026-04-10,RCB,Virat Kohli,Barsapara Stadium,32,16,7,0,1,200.0
+16,2026-04-10,RR,Dhruv Jurel,Barsapara Stadium,81,43,8,3,0,188.37
+16,2026-04-10,RR,Ravindra Jadeja,Barsapara Stadium,24,25,1,0,0,96.0
+16,2026-04-10,RR,Riyan Parag,Barsapara Stadium,3,5,0,0,1,60.0
+16,2026-04-10,RR,Shimron Hetmyer,Barsapara Stadium,0,1,0,0,1,0.0
+16,2026-04-10,RR,Vaibhav Sooryavanshi,Barsapara Stadium,78,26,8,7,1,300.0
+16,2026-04-10,RR,Yashasvi Jaiswal,Barsapara Stadium,13,8,0,2,1,162.5
+17,2026-04-11,PBKS,Cooper Connolly,New PCA Cricket Stadium,11,12,1,0,1,91.67
+17,2026-04-11,PBKS,Nehal Wadhera,New PCA Cricket Stadium,14,14,0,1,1,100.0
+17,2026-04-11,PBKS,Prabhsimran Singh,New PCA Cricket Stadium,51,25,4,4,1,204.0
+17,2026-04-11,PBKS,Priyansh Arya,New PCA Cricket Stadium,57,20,5,5,1,285.0
+17,2026-04-11,PBKS,Shashank Singh,New PCA Cricket Stadium,16,9,1,1,0,177.78
+17,2026-04-11,PBKS,Shreyas Iyer,New PCA Cricket Stadium,69,33,5,5,0,209.09
+17,2026-04-11,SRH,Abhishek Sharma,New PCA Cricket Stadium,74,28,5,8,1,264.29
+17,2026-04-11,SRH,Aniket Verma,New PCA Cricket Stadium,18,9,1,1,1,200.0
+17,2026-04-11,SRH,Harsh Dubey,New PCA Cricket Stadium,1,2,0,0,0,50.0
+17,2026-04-11,SRH,Heinrich Klaasen,New PCA Cricket Stadium,39,33,1,1,1,118.18
+17,2026-04-11,SRH,Ishan Kishan,New PCA Cricket Stadium,27,17,3,1,1,158.82
+17,2026-04-11,SRH,Nitish Reddy,New PCA Cricket Stadium,0,1,0,0,0,0.0
+17,2026-04-11,SRH,Salil Arora,New PCA Cricket Stadium,9,8,0,1,1,112.5
+17,2026-04-11,SRH,Travis Head,New PCA Cricket Stadium,38,23,5,1,1,165.22
+18,2026-04-11,CSK,Ayush Mhatre,MA Chidambaram Stadium,59,36,3,4,0,163.89
+18,2026-04-11,CSK,Ruturaj Gaikwad,MA Chidambaram Stadium,15,18,1,0,1,83.33
+18,2026-04-11,CSK,Sanju Samson,MA Chidambaram Stadium,115,56,15,4,0,205.36
+18,2026-04-11,CSK,Shivam Dube,MA Chidambaram Stadium,20,10,2,1,0,200.0
+18,2026-04-11,DC,Ashutosh Sharma,MA Chidambaram Stadium,19,10,1,2,1,190.0
+18,2026-04-11,DC,Auqib Nabi,MA Chidambaram Stadium,4,2,1,0,1,200.0
+18,2026-04-11,DC,Axar Patel,MA Chidambaram Stadium,1,2,0,0,1,50.0
+18,2026-04-11,DC,David Miller,MA Chidambaram Stadium,17,14,1,1,1,121.43
+18,2026-04-11,DC,Kuldeep Yadav,MA Chidambaram Stadium,4,7,0,0,1,57.14
+18,2026-04-11,DC,Lungi Ngidi,MA Chidambaram Stadium,3,5,0,0,1,60.0
+18,2026-04-11,DC,Natarajan,MA Chidambaram Stadium,1,2,0,0,0,50.0
+18,2026-04-11,DC,Pathum Nissanka,MA Chidambaram Stadium,40,24,5,2,1,166.67
+18,2026-04-11,DC,Rahul,MA Chidambaram Stadium,18,10,2,1,1,180.0
+18,2026-04-11,DC,Sameer Rizvi,MA Chidambaram Stadium,6,9,1,0,1,66.67
+18,2026-04-11,DC,Tristan Stubbs,MA Chidambaram Stadium,60,38,4,3,1,157.89
+19,2026-04-12,GT,Jos Buttler,Ekana Cricket Stadium,60,37,11,0,1,162.16
+19,2026-04-12,GT,Rahul Tewatia,Ekana Cricket Stadium,10,8,1,0,0,125.0
+19,2026-04-12,GT,Sai Sudharsan,Ekana Cricket Stadium,15,14,3,0,1,107.14
+19,2026-04-12,GT,Shubman Gill,Ekana Cricket Stadium,56,40,6,1,1,140.0
+19,2026-04-12,GT,Washington Sundar,Ekana Cricket Stadium,21,13,2,1,0,161.54
+19,2026-04-12,LSG,Abdul Samad,Ekana Cricket Stadium,18,22,2,0,1,81.82
+19,2026-04-12,LSG,Aiden Markram,Ekana Cricket Stadium,30,21,5,1,1,142.86
+19,2026-04-12,LSG,Avesh Khan,Ekana Cricket Stadium,4,1,1,0,0,400.0
+19,2026-04-12,LSG,Ayush Badoni,Ekana Cricket Stadium,9,11,1,0,1,81.82
+19,2026-04-12,LSG,George Linde,Ekana Cricket Stadium,16,10,3,0,1,160.0
+19,2026-04-12,LSG,Mitchell Marsh,Ekana Cricket Stadium,11,4,1,1,1,275.0
+19,2026-04-12,LSG,Mohammed Shami,Ekana Cricket Stadium,12,5,1,1,0,240.0
+19,2026-04-12,LSG,Mukul Choudhary,Ekana Cricket Stadium,18,14,1,1,1,128.57
+19,2026-04-12,LSG,Nicholas Pooran,Ekana Cricket Stadium,19,21,0,2,1,90.48
+19,2026-04-12,LSG,Rishabh Pant,Ekana Cricket Stadium,18,11,2,1,1,163.64
+20,2026-04-12,MI,Hardik Pandya,Wankhede Stadium,40,22,6,1,1,181.82
+20,2026-04-12,MI,Mitchell Santner,Wankhede Stadium,8,6,1,0,0,133.33
+20,2026-04-12,MI,Naman Dhir,Wankhede Stadium,1,2,0,0,1,50.0
+20,2026-04-12,MI,Rohit Sharma,Wankhede Stadium,19,13,2,1,1,146.15
+20,2026-04-12,MI,Ryan Rickelton,Wankhede Stadium,37,22,3,3,1,168.18
+20,2026-04-12,MI,Sherfane Rutherford,Wankhede Stadium,71,31,1,9,0,229.03
+20,2026-04-12,MI,Suryakumar Yadav,Wankhede Stadium,33,22,5,0,1,150.0
+20,2026-04-12,MI,Tilak Varma,Wankhede Stadium,1,3,0,0,1,33.33
+20,2026-04-12,RCB,Jitesh Sharma,Wankhede Stadium,10,9,1,0,1,111.11
+20,2026-04-12,RCB,Phil Salt,Wankhede Stadium,78,36,6,6,1,216.67
+20,2026-04-12,RCB,Rajat Patidar,Wankhede Stadium,53,20,4,5,1,265.0
+20,2026-04-12,RCB,Romario Shepherd,Wankhede Stadium,2,2,0,0,0,100.0
+20,2026-04-12,RCB,Tim David,Wankhede Stadium,34,16,2,3,0,212.5
+20,2026-04-12,RCB,Virat Kohli,Wankhede Stadium,50,38,5,1,1,131.58
+21,2026-04-13,RR,Dhruv Jurel,Rajiv Gandhi International Stadium,0,2,0,0,1,0.0
+21,2026-04-13,RR,Donovan Ferreira,Rajiv Gandhi International Stadium,69,44,8,3,1,156.82
+21,2026-04-13,RR,Jofra Archer,Rajiv Gandhi International Stadium,2,5,0,0,1,40.0
+21,2026-04-13,RR,Lhuan-dre Pretorius,Rajiv Gandhi International Stadium,0,2,0,0,1,0.0
+21,2026-04-13,RR,Nandre Burger,Rajiv Gandhi International Stadium,3,5,0,0,0,60.0
+21,2026-04-13,RR,Ravi Bishnoi,Rajiv Gandhi International Stadium,0,1,0,0,1,0.0
+21,2026-04-13,RR,Ravindra Jadeja,Rajiv Gandhi International Stadium,45,32,5,0,1,140.62
+21,2026-04-13,RR,Riyan Parag,Rajiv Gandhi International Stadium,4,6,1,0,1,66.67
+21,2026-04-13,RR,Tushar Deshpande,Rajiv Gandhi International Stadium,25,11,0,3,1,227.27
+21,2026-04-13,RR,Vaibhav Sooryavanshi,Rajiv Gandhi International Stadium,0,1,0,0,1,0.0
+21,2026-04-13,RR,Yashasvi Jaiswal,Rajiv Gandhi International Stadium,1,5,0,0,1,20.0
+21,2026-04-13,SRH,Abhishek Sharma,Rajiv Gandhi International Stadium,0,1,0,0,1,0.0
+21,2026-04-13,SRH,Aniket Verma,Rajiv Gandhi International Stadium,6,5,1,0,0,120.0
+21,2026-04-13,SRH,Heinrich Klaasen,Rajiv Gandhi International Stadium,40,26,1,3,1,153.85
+21,2026-04-13,SRH,Ishan Kishan,Rajiv Gandhi International Stadium,91,44,8,6,1,206.82
+21,2026-04-13,SRH,Nitish Reddy,Rajiv Gandhi International Stadium,28,13,0,4,1,215.38
+21,2026-04-13,SRH,Salil Arora,Rajiv Gandhi International Stadium,24,13,2,2,0,184.62
+21,2026-04-13,SRH,Travis Head,Rajiv Gandhi International Stadium,18,18,3,0,1,100.0
+22,2026-04-14,CSK,Ayush Mhatre,MA Chidambaram Stadium,38,17,6,2,1,223.53
+22,2026-04-14,CSK,Dewald Brevis,MA Chidambaram Stadium,41,29,4,2,1,141.38
+22,2026-04-14,CSK,Jamie Overton,MA Chidambaram Stadium,7,6,1,0,0,116.67
+22,2026-04-14,CSK,Ruturaj Gaikwad,MA Chidambaram Stadium,7,6,1,0,1,116.67
+22,2026-04-14,CSK,Sanju Samson,MA Chidambaram Stadium,48,32,4,3,1,150.0
+22,2026-04-14,CSK,Sarfaraz Khan,MA Chidambaram Stadium,23,18,1,2,1,127.78
+22,2026-04-14,CSK,Shivam Dube,MA Chidambaram Stadium,13,12,1,0,0,108.33
+22,2026-04-14,KKR,Ajinkya Rahane,MA Chidambaram Stadium,28,22,0,2,1,127.27
+22,2026-04-14,KKR,Angkrish Raghuvanshi,MA Chidambaram Stadium,27,19,3,1,1,142.11
+22,2026-04-14,KKR,Anukul Roy,MA Chidambaram Stadium,1,1,0,0,0,100.0
+22,2026-04-14,KKR,Cameron Green,MA Chidambaram Stadium,0,1,0,0,1,0.0
+22,2026-04-14,KKR,Finn Allen,MA Chidambaram Stadium,1,3,0,0,1,33.33
+22,2026-04-14,KKR,Ramandeep Singh,MA Chidambaram Stadium,35,23,4,1,1,152.17
+22,2026-04-14,KKR,Rinku Singh,MA Chidambaram Stadium,6,12,0,0,1,50.0
+22,2026-04-14,KKR,Rovman Powell,MA Chidambaram Stadium,31,22,1,2,0,140.91
+22,2026-04-14,KKR,Sunil Narine,MA Chidambaram Stadium,24,17,2,2,1,141.18
+23,2026-04-15,LSG,Abdul Samad,M. Chinnaswamy Stadium,0,2,0,0,1,0.0
+23,2026-04-15,LSG,Aiden Markram,M. Chinnaswamy Stadium,12,8,0,1,1,150.0
+23,2026-04-15,LSG,Avesh Khan,M. Chinnaswamy Stadium,1,2,0,0,1,50.0
+23,2026-04-15,LSG,Ayush Badoni,M. Chinnaswamy Stadium,38,24,4,1,1,158.33
+23,2026-04-15,LSG,Digvesh Singh Rathi,M. Chinnaswamy Stadium,0,3,0,0,0,0.0
+23,2026-04-15,LSG,George Linde,M. Chinnaswamy Stadium,7,7,1,0,1,100.0
+23,2026-04-15,LSG,Mitchell Marsh,M. Chinnaswamy Stadium,40,32,3,2,1,125.0
+23,2026-04-15,LSG,Mohammed Shami,M. Chinnaswamy Stadium,0,1,0,0,1,0.0
+23,2026-04-15,LSG,Mukul Choudhary,M. Chinnaswamy Stadium,39,28,3,2,1,139.29
+23,2026-04-15,LSG,Nicholas Pooran,M. Chinnaswamy Stadium,1,7,0,0,1,14.29
+23,2026-04-15,LSG,Rishabh Pant,M. Chinnaswamy Stadium,1,6,0,0,1,16.67
+23,2026-04-15,RCB,Devdutt Padikkal,M. Chinnaswamy Stadium,10,11,1,0,1,90.91
+23,2026-04-15,RCB,Jitesh Sharma,M. Chinnaswamy Stadium,23,9,2,2,1,255.56
+23,2026-04-15,RCB,Phil Salt,M. Chinnaswamy Stadium,7,8,1,0,1,87.5
+23,2026-04-15,RCB,Rajat Patidar,M. Chinnaswamy Stadium,27,13,1,3,1,207.69
+23,2026-04-15,RCB,Romario Shepherd,M. Chinnaswamy Stadium,14,8,1,1,0,175.0
+23,2026-04-15,RCB,Tim David,M. Chinnaswamy Stadium,14,8,1,1,0,175.0
+23,2026-04-15,RCB,Virat Kohli,M. Chinnaswamy Stadium,49,34,6,1,1,144.12
+24,2026-04-16,MI,Hardik Pandya,Wankhede Stadium,14,12,0,1,1,116.67
+24,2026-04-16,MI,Naman Dhir,Wankhede Stadium,50,31,3,3,1,161.29
+24,2026-04-16,MI,Quinton de Kock,Wankhede Stadium,112,60,8,7,0,186.67
+24,2026-04-16,MI,Ryan Rickelton,Wankhede Stadium,2,8,0,0,1,25.0
+24,2026-04-16,MI,Sherfane Rutherford,Wankhede Stadium,1,5,0,0,1,20.0
+24,2026-04-16,MI,Suryakumar Yadav,Wankhede Stadium,0,1,0,0,1,0.0
+24,2026-04-16,MI,Tilak Varma,Wankhede Stadium,8,3,2,0,1,266.67
+24,2026-04-16,PBKS,Cooper Connolly,Wankhede Stadium,17,12,1,2,1,141.67
+24,2026-04-16,PBKS,Marcus Stoinis,Wankhede Stadium,10,5,2,0,0,200.0
+24,2026-04-16,PBKS,Prabhsimran Singh,Wankhede Stadium,80,39,11,2,0,205.13
+24,2026-04-16,PBKS,Priyansh Arya,Wankhede Stadium,15,9,2,1,1,166.67
+24,2026-04-16,PBKS,Shreyas Iyer,Wankhede Stadium,66,35,5,4,1,188.57
+25,2026-04-17,GT,Glenn Phillips,Narendra Modi Stadium,19,16,2,0,1,118.75
+25,2026-04-17,GT,Jos Buttler,Narendra Modi Stadium,25,15,2,2,1,166.67
+25,2026-04-17,GT,Rahul Tewatia,Narendra Modi Stadium,7,6,0,0,0,116.67
+25,2026-04-17,GT,Sai Sudharsan,Narendra Modi Stadium,22,16,1,2,1,137.5
+25,2026-04-17,GT,Shahrukh Khan,Narendra Modi Stadium,3,2,0,0,0,150.0
+25,2026-04-17,GT,Shubman Gill,Narendra Modi Stadium,86,50,8,4,1,172.0
+25,2026-04-17,GT,Washington Sundar,Narendra Modi Stadium,13,13,1,0,1,100.0
+25,2026-04-17,KKR,Ajinkya Rahane,Narendra Modi Stadium,0,1,0,0,1,0.0
+25,2026-04-17,KKR,Angkrish Raghuvanshi,Narendra Modi Stadium,8,4,2,0,1,200.0
+25,2026-04-17,KKR,Anukul Roy,Narendra Modi Stadium,9,7,1,0,1,128.57
+25,2026-04-17,KKR,Cameron Green,Narendra Modi Stadium,79,55,7,4,1,143.64
+25,2026-04-17,KKR,Kartik Tyagi,Narendra Modi Stadium,6,4,0,1,1,150.0
+25,2026-04-17,KKR,Ramandeep Singh,Narendra Modi Stadium,17,8,2,1,1,212.5
+25,2026-04-17,KKR,Rinku Singh,Narendra Modi Stadium,1,2,0,0,1,50.0
+25,2026-04-17,KKR,Rovman Powell,Narendra Modi Stadium,27,20,2,2,1,135.0
+25,2026-04-17,KKR,Sunil Narine,Narendra Modi Stadium,0,5,0,0,1,0.0
+25,2026-04-17,KKR,Tim Seifert,Narendra Modi Stadium,19,14,2,1,1,135.71
+25,2026-04-17,KKR,Vaibhav Arora,Narendra Modi Stadium,0,1,0,0,0,0.0
+26,2026-04-18,DC,Axar Patel,M. Chinnaswamy Stadium,26,19,3,0,0,136.84
+26,2026-04-18,DC,David Miller,M. Chinnaswamy Stadium,22,10,1,2,0,220.0
+26,2026-04-18,DC,Karun Nair,M. Chinnaswamy Stadium,5,5,1,0,1,100.0
+26,2026-04-18,DC,Pathum Nissanka,M. Chinnaswamy Stadium,1,2,0,0,1,50.0
+26,2026-04-18,DC,Rahul,M. Chinnaswamy Stadium,57,34,6,2,1,167.65
+26,2026-04-18,DC,Sameer Rizvi,M. Chinnaswamy Stadium,2,3,0,0,1,66.67
+26,2026-04-18,DC,Tristan Stubbs,M. Chinnaswamy Stadium,60,47,4,1,0,127.66
+26,2026-04-18,RCB,Bhuvneshwar Kumar,M. Chinnaswamy Stadium,3,2,0,0,0,150.0
+26,2026-04-18,RCB,Devdutt Padikkal,M. Chinnaswamy Stadium,18,13,1,1,1,138.46
+26,2026-04-18,RCB,Jitesh Sharma,M. Chinnaswamy Stadium,14,20,1,0,1,70.0
+26,2026-04-18,RCB,Krunal Pandya,M. Chinnaswamy Stadium,12,10,0,1,0,120.0
+26,2026-04-18,RCB,Phil Salt,M. Chinnaswamy Stadium,63,38,4,3,1,165.79
+26,2026-04-18,RCB,Rajat Patidar,M. Chinnaswamy Stadium,8,4,0,1,1,200.0
+26,2026-04-18,RCB,Romario Shepherd,M. Chinnaswamy Stadium,1,4,0,0,1,25.0
+26,2026-04-18,RCB,Tim David,M. Chinnaswamy Stadium,26,17,3,1,1,152.94
+26,2026-04-18,RCB,Virat Kohli,M. Chinnaswamy Stadium,19,13,3,0,1,146.15
+27,2026-04-18,CSK,Anshul Kamboj,Rajiv Gandhi International Stadium,13,8,0,1,0,162.5
+27,2026-04-18,CSK,Ayush Mhatre,Rajiv Gandhi International Stadium,30,13,5,1,1,230.77
+27,2026-04-18,CSK,Dewald Brevis,Rajiv Gandhi International Stadium,0,4,0,0,1,0.0
+27,2026-04-18,CSK,Jamie Overton,Rajiv Gandhi International Stadium,16,15,1,0,1,106.67
+27,2026-04-18,CSK,Matthew Short,Rajiv Gandhi International Stadium,34,30,3,0,1,113.33
+27,2026-04-18,CSK,Noor Ahmad,Rajiv Gandhi International Stadium,1,1,0,0,0,100.0
+27,2026-04-18,CSK,Ruturaj Gaikwad,Rajiv Gandhi International Stadium,19,13,3,0,1,146.15
+27,2026-04-18,CSK,Sanju Samson,Rajiv Gandhi International Stadium,7,3,0,1,1,233.33
+27,2026-04-18,CSK,Sarfaraz Khan,Rajiv Gandhi International Stadium,25,19,3,0,1,131.58
+27,2026-04-18,CSK,Shivam Dube,Rajiv Gandhi International Stadium,21,16,1,1,1,131.25
+27,2026-04-18,SRH,Abhishek Sharma,Rajiv Gandhi International Stadium,59,22,6,4,1,268.18
+27,2026-04-18,SRH,Aniket Verma,Rajiv Gandhi International Stadium,2,4,0,0,1,50.0
+27,2026-04-18,SRH,Heinrich Klaasen,Rajiv Gandhi International Stadium,59,39,6,2,1,151.28
+27,2026-04-18,SRH,Ishan Kishan,Rajiv Gandhi International Stadium,0,1,0,0,1,0.0
+27,2026-04-18,SRH,Liam Livingstone,Rajiv Gandhi International Stadium,1,5,0,0,1,20.0
+27,2026-04-18,SRH,Nitish Reddy,Rajiv Gandhi International Stadium,12,8,0,1,1,150.0
+27,2026-04-18,SRH,Praful Hinge,Rajiv Gandhi International Stadium,0,1,0,0,0,0.0
+27,2026-04-18,SRH,Salil Arora,Rajiv Gandhi International Stadium,13,12,2,0,1,108.33
+27,2026-04-18,SRH,Shivang Kumar,Rajiv Gandhi International Stadium,12,8,1,1,1,150.0
+27,2026-04-18,SRH,Travis Head,Rajiv Gandhi International Stadium,23,20,3,1,1,115.0
+28,2026-04-19,KKR,Ajinkya Rahane,Eden Gardens,0,2,0,0,1,0.0
+28,2026-04-19,KKR,Angkrish Raghuvanshi,Eden Gardens,10,18,1,0,1,55.56
+28,2026-04-19,KKR,Anukul Roy,Eden Gardens,29,16,1,2,0,181.25
+28,2026-04-19,KKR,Cameron Green,Eden Gardens,27,13,4,1,0,207.69
+28,2026-04-19,KKR,Ramandeep Singh,Eden Gardens,10,13,1,0,1,76.92
+28,2026-04-19,KKR,Rinku Singh,Eden Gardens,53,34,5,2,0,155.88
+28,2026-04-19,KKR,Rovman Powell,Eden Gardens,24,21,2,1,1,114.29
+28,2026-04-19,KKR,Tim Seifert,Eden Gardens,0,1,0,0,1,0.0
+28,2026-04-19,RR,Brijesh Sharma,Eden Gardens,1,3,0,0,0,33.33
+28,2026-04-19,RR,Dhruv Jurel,Eden Gardens,5,7,0,0,1,71.43
+28,2026-04-19,RR,Donovan Ferreira,Eden Gardens,7,7,0,1,1,100.0
+28,2026-04-19,RR,Jaiswal,Eden Gardens,1,1,0,0,0,100.0
+28,2026-04-19,RR,Jofra Archer,Eden Gardens,8,5,1,0,0,160.0
+28,2026-04-19,RR,Ravi Bishnoi,Eden Gardens,0,2,0,0,1,0.0
+28,2026-04-19,RR,Ravindra Jadeja,Eden Gardens,9,7,1,0,1,128.57
+28,2026-04-19,RR,Riyan Parag,Eden Gardens,12,14,1,0,1,85.71
+28,2026-04-19,RR,Shimron Hetmyer,Eden Gardens,15,18,0,0,1,83.33
+28,2026-04-19,RR,Vaibhav Sooryavanshi,Eden Gardens,46,28,6,2,1,164.29
+28,2026-04-19,RR,Yashasvi Jaiswal,Eden Gardens,38,28,4,2,1,135.71
+29,2026-04-19,LSG,Aiden Markram,New PCA Cricket Stadium,42,22,3,3,1,190.91
+29,2026-04-19,LSG,Ayush Badoni,New PCA Cricket Stadium,35,21,5,1,1,166.67
+29,2026-04-19,LSG,Himmat Singh,New PCA Cricket Stadium,1,1,0,0,0,100.0
+29,2026-04-19,LSG,Mitchell Marsh,New PCA Cricket Stadium,40,28,3,2,1,142.86
+29,2026-04-19,LSG,Mukul Choudhary,New PCA Cricket Stadium,21,17,1,1,0,123.53
+29,2026-04-19,LSG,Nicholas Pooran,New PCA Cricket Stadium,9,9,1,0,1,100.0
+29,2026-04-19,LSG,Rishabh Pant,New PCA Cricket Stadium,43,23,1,4,1,186.96
+29,2026-04-19,PBKS,Cooper Connolly,New PCA Cricket Stadium,87,46,8,7,1,189.13
+29,2026-04-19,PBKS,Marco Jansen,New PCA Cricket Stadium,1,1,0,0,0,100.0
+29,2026-04-19,PBKS,Marcus Stoinis,New PCA Cricket Stadium,29,16,2,2,1,181.25
+29,2026-04-19,PBKS,Nehal Wadhera,New PCA Cricket Stadium,13,7,1,1,1,185.71
+29,2026-04-19,PBKS,Prabhsimran Singh,New PCA Cricket Stadium,0,1,0,0,1,0.0
+29,2026-04-19,PBKS,Priyansh Arya,New PCA Cricket Stadium,93,37,4,9,1,251.35
+29,2026-04-19,PBKS,Shashank Singh,New PCA Cricket Stadium,17,6,1,2,1,283.33
+29,2026-04-19,PBKS,Shreyas Iyer,New PCA Cricket Stadium,5,6,0,0,1,83.33
+30,2026-04-20,GT,Ashok Sharma,Narendra Modi Stadium,1,3,0,0,0,33.33
+30,2026-04-20,GT,Glenn Phillips,Narendra Modi Stadium,6,8,0,0,1,75.0
+30,2026-04-20,GT,Jos Buttler,Narendra Modi Stadium,5,6,1,0,1,83.33
+30,2026-04-20,GT,Kagiso Rabada,Narendra Modi Stadium,12,14,2,0,1,85.71
+30,2026-04-20,GT,Mohammed Siraj,Narendra Modi Stadium,0,3,0,0,1,0.0
+30,2026-04-20,GT,Rahul Tewatia,Narendra Modi Stadium,8,11,1,0,1,72.73
+30,2026-04-20,GT,Rashid Khan,Narendra Modi Stadium,4,6,0,0,1,66.67
+30,2026-04-20,GT,Sai Sudharsan,Narendra Modi Stadium,0,1,0,0,1,0.0
+30,2026-04-20,GT,Shahrukh Khan,Narendra Modi Stadium,17,13,1,1,1,130.77
+30,2026-04-20,GT,Shubman Gill,Narendra Modi Stadium,14,13,3,0,1,107.69
+30,2026-04-20,GT,Washington Sundar,Narendra Modi Stadium,26,17,5,0,1,152.94
+30,2026-04-20,MI,Danish Malewar,Narendra Modi Stadium,2,4,0,0,1,50.0
+30,2026-04-20,MI,Hardik Pandya,Narendra Modi Stadium,15,16,1,0,1,93.75
+30,2026-04-20,MI,Naman Dhir,Narendra Modi Stadium,45,32,6,1,1,140.62
+30,2026-04-20,MI,Quinton de Kock,Narendra Modi Stadium,13,11,1,1,1,118.18
+30,2026-04-20,MI,Sherfane Rutherford,Narendra Modi Stadium,1,2,0,0,0,50.0
+30,2026-04-20,MI,Suryakumar Yadav,Narendra Modi Stadium,15,10,1,1,1,150.0
+30,2026-04-20,MI,Tilak Varma,Narendra Modi Stadium,101,45,8,7,0,224.44
+31,2026-04-21,DC,Ashutosh Sharma,Rajiv Gandhi International Stadium,14,10,2,0,1,140.0
+31,2026-04-21,DC,Axar Patel,Rajiv Gandhi International Stadium,2,3,0,0,1,66.67
+31,2026-04-21,DC,David Miller,Rajiv Gandhi International Stadium,0,1,0,0,1,0.0
+31,2026-04-21,DC,Kuldeep Yadav,Rajiv Gandhi International Stadium,1,2,0,0,0,50.0
+31,2026-04-21,DC,Lungi Ngidi,Rajiv Gandhi International Stadium,0,1,0,0,1,0.0
+31,2026-04-21,DC,Nitish Rana,Rajiv Gandhi International Stadium,57,30,7,3,1,190.0
+31,2026-04-21,DC,Pathum Nissanka,Rajiv Gandhi International Stadium,8,6,0,1,1,133.33
+31,2026-04-21,DC,Rahul,Rajiv Gandhi International Stadium,37,23,1,3,1,160.87
+31,2026-04-21,DC,Sameer Rizvi,Rajiv Gandhi International Stadium,41,28,2,2,1,146.43
+31,2026-04-21,DC,Tristan Stubbs,Rajiv Gandhi International Stadium,27,16,3,1,1,168.75
+31,2026-04-21,SRH,Abhishek Sharma,Rajiv Gandhi International Stadium,135,68,10,10,1,198.53
+31,2026-04-21,SRH,Heinrich Klaasen,Rajiv Gandhi International Stadium,37,13,3,3,0,284.62
+31,2026-04-21,SRH,Ishan Kishan,Rajiv Gandhi International Stadium,25,13,2,1,0,192.31
+31,2026-04-21,SRH,Travis Head,Rajiv Gandhi International Stadium,37,26,2,2,1,142.31
+32,2026-04-22,LSG,Aiden Markram,Ekana Cricket Stadium,0,6,0,0,1,0.0
+32,2026-04-22,LSG,Ayush Badoni,Ekana Cricket Stadium,0,1,0,0,1,0.0
+32,2026-04-22,LSG,Digvesh Singh Rathi,Ekana Cricket Stadium,2,2,0,0,0,100.0
+32,2026-04-22,LSG,Himmat Singh,Ekana Cricket Stadium,15,15,0,1,1,100.0
+32,2026-04-22,LSG,Mayank Yadav,Ekana Cricket Stadium,5,5,1,0,1,100.0
+32,2026-04-22,LSG,Mitchell Marsh,Ekana Cricket Stadium,55,41,6,2,1,134.15
+32,2026-04-22,LSG,Mohammed Shami,Ekana Cricket Stadium,6,4,0,1,1,150.0
+32,2026-04-22,LSG,Mohsin Khan,Ekana Cricket Stadium,0,3,0,0,1,0.0
+32,2026-04-22,LSG,Mukul Choudhary,Ekana Cricket Stadium,7,3,0,1,1,233.33
+32,2026-04-22,LSG,Nicholas Pooran,Ekana Cricket Stadium,22,25,3,0,1,88.0
+32,2026-04-22,LSG,Rishabh Pant,Ekana Cricket Stadium,0,3,0,0,1,0.0
+32,2026-04-22,RR,Dhruv Jurel,Ekana Cricket Stadium,0,1,0,0,1,0.0
+32,2026-04-22,RR,Donovan Ferreira,Ekana Cricket Stadium,20,19,2,0,1,105.26
+32,2026-04-22,RR,Ravindra Jadeja,Ekana Cricket Stadium,43,29,2,1,0,148.28
+32,2026-04-22,RR,Riyan Parag,Ekana Cricket Stadium,20,19,2,1,1,105.26
+32,2026-04-22,RR,Shimron Hetmyer,Ekana Cricket Stadium,22,18,2,1,1,122.22
+32,2026-04-22,RR,Shubham Dubey,Ekana Cricket Stadium,19,11,3,0,0,172.73
+32,2026-04-22,RR,Vaibhav Sooryavanshi,Ekana Cricket Stadium,8,11,2,0,1,72.73
+32,2026-04-22,RR,Yashasvi Jaiswal,Ekana Cricket Stadium,22,12,4,0,1,183.33
+33,2026-04-23,CSK,Akeal Hosein,Wankhede Stadium,2,2,0,0,0,100.0
+33,2026-04-23,CSK,Dewald Brevis,Wankhede Stadium,21,11,1,2,1,190.91
+33,2026-04-23,CSK,Jamie Overton,Wankhede Stadium,15,7,2,1,1,214.29
+33,2026-04-23,CSK,Kartik Sharma,Wankhede Stadium,18,19,0,2,1,94.74
+33,2026-04-23,CSK,Ruturaj Gaikwad,Wankhede Stadium,22,14,3,1,1,157.14
+33,2026-04-23,CSK,Sanju Samson,Wankhede Stadium,101,54,10,6,0,187.04
+33,2026-04-23,CSK,Sarfaraz Khan,Wankhede Stadium,14,8,3,0,1,175.0
+33,2026-04-23,CSK,Shivam Dube,Wankhede Stadium,5,8,0,0,1,62.5
+33,2026-04-23,MI,Ashwani Kumar,Wankhede Stadium,1,6,0,0,0,16.67
+33,2026-04-23,MI,Danish Malewar,Wankhede Stadium,0,1,0,0,1,0.0
+33,2026-04-23,MI,Hardik Pandya,Wankhede Stadium,1,2,0,0,1,50.0
+33,2026-04-23,MI,Jasprit Bumrah,Wankhede Stadium,2,5,0,0,1,40.0
+33,2026-04-23,MI,Krish Bhagat,Wankhede Stadium,7,15,0,0,1,46.67
+33,2026-04-23,MI,Naman Dhir,Wankhede Stadium,0,3,0,0,1,0.0
+33,2026-04-23,MI,Quinton de Kock,Wankhede Stadium,7,10,0,1,1,70.0
+33,2026-04-23,MI,Shardul Thakur,Wankhede Stadium,6,12,0,0,1,50.0
+33,2026-04-23,MI,Sherfane Rutherford,Wankhede Stadium,0,1,0,0,1,0.0
+33,2026-04-23,MI,Suryakumar Yadav,Wankhede Stadium,36,30,5,0,1,120.0
+33,2026-04-23,MI,Tilak Varma,Wankhede Stadium,37,29,5,0,1,127.59
+34,2026-04-24,GT,Jason Holder,M. Chinnaswamy Stadium,23,10,1,2,0,230.0
+34,2026-04-24,GT,Jos Buttler,M. Chinnaswamy Stadium,25,16,2,1,1,156.25
+34,2026-04-24,GT,Sai Sudharsan,M. Chinnaswamy Stadium,100,58,11,5,1,172.41
+34,2026-04-24,GT,Shubman Gill,M. Chinnaswamy Stadium,32,24,2,1,1,133.33
+34,2026-04-24,GT,Washington Sundar,M. Chinnaswamy Stadium,19,12,1,1,0,158.33
+34,2026-04-24,RCB,Devdutt Padikkal,M. Chinnaswamy Stadium,55,27,2,6,1,203.7
+34,2026-04-24,RCB,Jacob Bethell,M. Chinnaswamy Stadium,14,10,3,0,1,140.0
+34,2026-04-24,RCB,Jitesh Sharma,M. Chinnaswamy Stadium,10,6,1,1,1,166.67
+34,2026-04-24,RCB,Krunal Pandya,M. Chinnaswamy Stadium,23,12,3,1,0,191.67
+34,2026-04-24,RCB,Rajat Patidar,M. Chinnaswamy Stadium,8,5,0,1,1,160.0
+34,2026-04-24,RCB,Tim David,M. Chinnaswamy Stadium,10,9,0,1,0,111.11
+34,2026-04-24,RCB,Virat Kohli,M. Chinnaswamy Stadium,81,44,8,4,1,184.09
+35,2026-04-25,DC,David Miller,Arun Jaitley Stadium,3,3,0,0,0,100.0
+35,2026-04-25,DC,Nitish Rana,Arun Jaitley Stadium,91,44,11,4,1,206.82
+35,2026-04-25,DC,Pathum Nissanka,Arun Jaitley Stadium,11,7,2,0,1,157.14
+35,2026-04-25,DC,Rahul,Arun Jaitley Stadium,152,67,16,9,0,226.87
+35,2026-04-25,PBKS,Cooper Connolly,Arun Jaitley Stadium,17,10,1,1,1,170.0
+35,2026-04-25,PBKS,Nehal Wadhera,Arun Jaitley Stadium,25,15,3,1,1,166.67
+35,2026-04-25,PBKS,Prabhsimran Singh,Arun Jaitley Stadium,76,26,9,5,1,292.31
+35,2026-04-25,PBKS,Priyansh Arya,Arun Jaitley Stadium,43,17,2,5,1,252.94
+35,2026-04-25,PBKS,Shashank Singh,Arun Jaitley Stadium,19,10,2,1,0,190.0
+35,2026-04-25,PBKS,Shreyas Iyer,Arun Jaitley Stadium,71,36,3,7,0,197.22
+36,2026-04-25,RR,Dhruv Jurel,Sawai Mansingh Stadium,50,34,8,1,1,147.06
+36,2026-04-25,RR,Donovan Ferreira,Sawai Mansingh Stadium,33,16,3,3,1,206.25
+36,2026-04-25,RR,Jofra Archer,Sawai Mansingh Stadium,2,2,0,0,0,100.0
+36,2026-04-25,RR,Ravindra Jadeja,Sawai Mansingh Stadium,4,3,1,0,0,133.33
+36,2026-04-25,RR,Riyan Parag,Sawai Mansingh Stadium,7,9,0,0,1,77.78
+36,2026-04-25,RR,Shimron Hetmyer,Sawai Mansingh Stadium,11,10,1,0,1,110.0
+36,2026-04-25,RR,Vaibhav Sooryavanshi,Sawai Mansingh Stadium,103,37,5,12,1,278.38
+36,2026-04-25,RR,Yashasvi Jaiswal,Sawai Mansingh Stadium,10,8,2,0,1,125.0
+36,2026-04-25,SRH,Abhishek Sharma,Sawai Mansingh Stadium,57,29,11,1,1,196.55
+36,2026-04-25,SRH,Aniket Verma,Sawai Mansingh Stadium,1,1,0,0,0,100.0
+36,2026-04-25,SRH,Heinrich Klaasen,Sawai Mansingh Stadium,29,24,3,1,1,120.83
+36,2026-04-25,SRH,Ishan Kishan,Sawai Mansingh Stadium,74,31,11,3,1,238.71
+36,2026-04-25,SRH,Nitish Reddy,Sawai Mansingh Stadium,36,18,2,3,1,200.0
+36,2026-04-25,SRH,Salil Arora,Sawai Mansingh Stadium,8,3,0,1,0,266.67
+36,2026-04-25,SRH,Travis Head,Sawai Mansingh Stadium,6,5,0,1,1,120.0
+37,2026-04-26,CSK,Dewald Brevis,MA Chidambaram Stadium,2,9,0,0,1,22.22
+37,2026-04-26,CSK,Jamie Overton,MA Chidambaram Stadium,18,6,3,1,1,300.0
+37,2026-04-26,CSK,Kartik Sharma,MA Chidambaram Stadium,15,9,3,0,1,166.67
+37,2026-04-26,CSK,Ruturaj Gaikwad,MA Chidambaram Stadium,74,60,6,4,0,123.33
+37,2026-04-26,CSK,Sanju Samson,MA Chidambaram Stadium,11,15,2,0,1,73.33
+37,2026-04-26,CSK,Sarfaraz Khan,MA Chidambaram Stadium,0,1,0,0,1,0.0
+37,2026-04-26,CSK,Shivam Dube,MA Chidambaram Stadium,22,17,3,1,1,129.41
+37,2026-04-26,CSK,Urvil Patel,MA Chidambaram Stadium,4,3,1,0,1,133.33
+37,2026-04-26,GT,Jos Buttler,MA Chidambaram Stadium,39,30,4,1,0,130.0
+37,2026-04-26,GT,Sai Sudharsan,MA Chidambaram Stadium,87,46,4,7,1,189.13
+37,2026-04-26,GT,Shubman Gill,MA Chidambaram Stadium,33,23,1,3,0,143.48
+37,2026-04-26,GT,Washington Sundar,MA Chidambaram Stadium,1,1,0,0,0,100.0
+38,2026-04-26,KKR,Ajinkya Rahane,Ekana Cricket Stadium,10,15,0,1,1,66.67
+38,2026-04-26,KKR,Angkrish Raghuvanshi,Ekana Cricket Stadium,9,8,1,0,1,112.5
+38,2026-04-26,KKR,Anukul Roy,Ekana Cricket Stadium,0,1,0,0,1,0.0
+38,2026-04-26,KKR,Cameron Green,Ekana Cricket Stadium,34,21,0,3,1,161.9
+38,2026-04-26,KKR,Ramandeep Singh,Ekana Cricket Stadium,6,11,0,0,1,54.55
+38,2026-04-26,KKR,Rinku Singh,Ekana Cricket Stadium,87,52,8,5,0,167.31
+38,2026-04-26,KKR,Rovman Powell,Ekana Cricket Stadium,1,4,0,0,1,25.0
+38,2026-04-26,KKR,Sunil Narine,Ekana Cricket Stadium,4,6,0,0,0,66.67
+38,2026-04-26,KKR,Tim Seifert,Ekana Cricket Stadium,0,3,0,0,1,0.0
+38,2026-04-26,LSG,Aiden Markram,Ekana Cricket Stadium,31,28,2,1,1,110.71
+38,2026-04-26,LSG,Ayush Badoni,Ekana Cricket Stadium,24,19,0,2,1,126.32
+38,2026-04-26,LSG,George Linde,Ekana Cricket Stadium,8,4,2,0,1,200.0
+38,2026-04-26,LSG,Himmat Singh,Ekana Cricket Stadium,19,10,2,1,1,190.0
+38,2026-04-26,LSG,Mitchell Marsh,Ekana Cricket Stadium,2,3,0,0,1,66.67
+38,2026-04-26,LSG,Mohammed Shami,Ekana Cricket Stadium,11,6,1,1,0,183.33
+38,2026-04-26,LSG,Mukul Choudhary,Ekana Cricket Stadium,1,2,0,0,1,50.0
+38,2026-04-26,LSG,Nicholas Pooran,Ekana Cricket Stadium,9,13,0,1,1,69.23
+38,2026-04-26,LSG,Prince Yadav,Ekana Cricket Stadium,0,1,0,0,0,0.0
+38,2026-04-26,LSG,Rishabh Pant,Ekana Cricket Stadium,43,39,4,1,1,110.26
+39,2026-04-27,DC,Abishek Porel,Arun Jaitley Stadium,30,33,3,0,1,90.91
+39,2026-04-27,DC,Axar Patel,Arun Jaitley Stadium,0,3,0,0,1,0.0
+39,2026-04-27,DC,David Miller,Arun Jaitley Stadium,19,18,3,0,1,105.56
+39,2026-04-27,DC,Dushmantha Chameera,Arun Jaitley Stadium,0,3,0,0,0,0.0
+39,2026-04-27,DC,Kuldeep Yadav,Arun Jaitley Stadium,3,11,0,0,1,27.27
+39,2026-04-27,DC,Kyle Jamieson,Arun Jaitley Stadium,12,13,1,1,1,92.31
+39,2026-04-27,DC,Nitish Rana,Arun Jaitley Stadium,1,9,0,0,1,11.11
+39,2026-04-27,DC,Rahul,Arun Jaitley Stadium,1,3,0,0,1,33.33
+39,2026-04-27,DC,Sahil Parakh,Arun Jaitley Stadium,0,2,0,0,1,0.0
+39,2026-04-27,DC,Sameer Rizvi,Arun Jaitley Stadium,0,1,0,0,1,0.0
+39,2026-04-27,DC,Tristan Stubbs,Arun Jaitley Stadium,5,3,1,0,1,166.67
+39,2026-04-27,RCB,Devdutt Padikkal,Arun Jaitley Stadium,34,13,3,3,0,261.54
+39,2026-04-27,RCB,Jacob Bethell,Arun Jaitley Stadium,20,11,1,2,1,181.82
+39,2026-04-27,RCB,Virat Kohli,Arun Jaitley Stadium,23,15,1,2,0,153.33
+40,2026-04-28,PBKS,Cooper Connolly,New PCA Cricket Stadium,30,14,2,3,1,214.29
+40,2026-04-28,PBKS,Marcus Stoinis,New PCA Cricket Stadium,62,22,4,6,0,281.82
+40,2026-04-28,PBKS,Prabhsimran Singh,New PCA Cricket Stadium,59,44,6,1,1,134.09
+40,2026-04-28,PBKS,Priyansh Arya,New PCA Cricket Stadium,29,11,5,1,1,263.64
+40,2026-04-28,PBKS,Shreyas Iyer,New PCA Cricket Stadium,30,27,1,1,1,111.11
+40,2026-04-28,PBKS,Suryansh Shedge,New PCA Cricket Stadium,3,2,0,0,0,150.0
+40,2026-04-28,RR,Dhruv Jurel,New PCA Cricket Stadium,16,20,0,1,1,80.0
+40,2026-04-28,RR,Donovan Ferreira,New PCA Cricket Stadium,52,26,6,3,0,200.0
+40,2026-04-28,RR,Riyan Parag,New PCA Cricket Stadium,29,16,2,2,1,181.25
+40,2026-04-28,RR,Shubham Dubey,New PCA Cricket Stadium,31,12,3,2,0,258.33
+40,2026-04-28,RR,Vaibhav Sooryavanshi,New PCA Cricket Stadium,43,16,3,5,1,268.75
+40,2026-04-28,RR,Yashasvi Jaiswal,New PCA Cricket Stadium,51,27,7,1,1,188.89
+41,2026-04-29,MI,Hardik Pandya,Wankhede Stadium,31,15,2,2,1,206.67
+41,2026-04-29,MI,Naman Dhir,Wankhede Stadium,22,17,3,0,1,129.41
+41,2026-04-29,MI,Robin Minz,Wankhede Stadium,1,1,0,0,0,100.0
+41,2026-04-29,MI,Ryan Rickelton,Wankhede Stadium,123,55,10,8,0,223.64
+41,2026-04-29,MI,Suryakumar Yadav,Wankhede Stadium,5,5,1,0,1,100.0
+41,2026-04-29,MI,Tilak Varma,Wankhede Stadium,7,5,0,1,1,140.0
+41,2026-04-29,MI,Will Jacks,Wankhede Stadium,46,22,5,3,1,209.09
+41,2026-04-29,SRH,Abhishek Sharma,Wankhede Stadium,45,24,4,3,1,187.5
+41,2026-04-29,SRH,Heinrich Klaasen,Wankhede Stadium,65,30,7,4,0,216.67
+41,2026-04-29,SRH,Ishan Kishan,Wankhede Stadium,0,1,0,0,1,0.0
+41,2026-04-29,SRH,Nitish Reddy,Wankhede Stadium,21,17,3,0,1,123.53
+41,2026-04-29,SRH,Salil Arora,Wankhede Stadium,30,10,2,3,0,300.0
+41,2026-04-29,SRH,Travis Head,Wankhede Stadium,76,30,4,8,1,253.33
+42,2026-04-30,GT,Jason Holder,Narendra Modi Stadium,12,10,0,1,1,120.0
+42,2026-04-30,GT,Jos Buttler,Narendra Modi Stadium,39,19,2,4,1,205.26
+42,2026-04-30,GT,Rahul Tewatia,Narendra Modi Stadium,27,17,4,0,0,158.82
+42,2026-04-30,GT,Rashid Khan,Narendra Modi Stadium,7,6,1,0,0,116.67
+42,2026-04-30,GT,Sai Sudharsan,Narendra Modi Stadium,6,5,1,0,1,120.0
+42,2026-04-30,GT,Shahrukh Khan,Narendra Modi Stadium,8,8,1,0,1,100.0
+42,2026-04-30,GT,Shubman Gill,Narendra Modi Stadium,43,18,4,3,1,238.89
+42,2026-04-30,GT,Washington Sundar,Narendra Modi Stadium,12,12,0,1,1,100.0
+42,2026-04-30,RCB,Bhuvneshwar Kumar,Narendra Modi Stadium,15,15,2,0,0,100.0
+42,2026-04-30,RCB,Devdutt Padikkal,Narendra Modi Stadium,40,24,5,2,1,166.67
+42,2026-04-30,RCB,Jacob Bethell,Narendra Modi Stadium,5,5,1,0,1,100.0
+42,2026-04-30,RCB,Jitesh Sharma,Narendra Modi Stadium,1,3,0,0,1,33.33
+42,2026-04-30,RCB,Josh Hazlewood,Narendra Modi Stadium,0,1,0,0,1,0.0
+42,2026-04-30,RCB,Krunal Pandya,Narendra Modi Stadium,4,4,1,0,1,100.0
+42,2026-04-30,RCB,Rajat Patidar,Narendra Modi Stadium,19,15,2,1,1,126.67
+42,2026-04-30,RCB,Romario Shepherd,Narendra Modi Stadium,17,15,0,2,1,113.33
+42,2026-04-30,RCB,Tim David,Narendra Modi Stadium,9,6,0,1,1,150.0
+42,2026-04-30,RCB,Venkatesh Iyer,Narendra Modi Stadium,12,15,1,0,1,80.0
+42,2026-04-30,RCB,Virat Kohli,Narendra Modi Stadium,28,13,5,1,1,215.38
+43,2026-05-01,DC,Ashutosh Sharma,Sawai Mansingh Stadium,25,15,4,0,0,166.67
+43,2026-05-01,DC,Nitish Rana,Sawai Mansingh Stadium,33,17,3,2,1,194.12
+43,2026-05-01,DC,Pathum Nissanka,Sawai Mansingh Stadium,62,33,6,3,1,187.88
+43,2026-05-01,DC,Rahul,Sawai Mansingh Stadium,75,40,6,5,1,187.5
+43,2026-05-01,DC,Tristan Stubbs,Sawai Mansingh Stadium,18,11,1,1,0,163.64
+43,2026-05-01,RR,Dhruv Jurel,Sawai Mansingh Stadium,42,30,4,1,1,140.0
+43,2026-05-01,RR,Donovan Ferreira,Sawai Mansingh Stadium,47,14,2,6,0,335.71
+43,2026-05-01,RR,Jofra Archer,Sawai Mansingh Stadium,1,1,0,0,0,100.0
+43,2026-05-01,RR,Ravindra Jadeja,Sawai Mansingh Stadium,20,14,1,1,1,142.86
+43,2026-05-01,RR,Riyan Parag,Sawai Mansingh Stadium,90,50,8,5,1,180.0
+43,2026-05-01,RR,Shubham Dubey,Sawai Mansingh Stadium,6,6,1,0,1,100.0
+43,2026-05-01,RR,Vaibhav Sooryavanshi,Sawai Mansingh Stadium,4,2,1,0,1,200.0
+43,2026-05-01,RR,Yashasvi Jaiswal,Sawai Mansingh Stadium,6,3,0,1,1,200.0
+44,2026-05-02,CSK,Kartik Sharma,MA Chidambaram Stadium,54,40,4,3,0,135.0
+44,2026-05-02,CSK,Ruturaj Gaikwad,MA Chidambaram Stadium,67,48,5,2,0,139.58
+44,2026-05-02,CSK,Sanju Samson,MA Chidambaram Stadium,11,9,2,0,1,122.22
+44,2026-05-02,CSK,Urvil Patel,MA Chidambaram Stadium,24,12,2,2,1,200.0
+44,2026-05-02,MI,Hardik Pandya,MA Chidambaram Stadium,18,23,2,0,1,78.26
+44,2026-05-02,MI,Krish Bhagat,MA Chidambaram Stadium,3,6,0,0,0,50.0
+44,2026-05-02,MI,Naman Dhir,MA Chidambaram Stadium,57,37,4,3,1,154.05
+44,2026-05-02,MI,Robin Minz,MA Chidambaram Stadium,5,3,1,0,1,166.67
+44,2026-05-02,MI,Ryan Rickelton,MA Chidambaram Stadium,37,24,0,5,1,154.17
+44,2026-05-02,MI,Suryakumar Yadav,MA Chidambaram Stadium,21,12,3,1,1,175.0
+44,2026-05-02,MI,Tilak Varma,MA Chidambaram Stadium,5,8,0,0,1,62.5
+44,2026-05-02,MI,Trent Boult,MA Chidambaram Stadium,7,2,0,1,0,350.0
+44,2026-05-02,MI,Will Jacks,MA Chidambaram Stadium,1,5,0,0,1,20.0
+45,2026-05-03,KKR,Ajinkya Rahane,Rajiv Gandhi International Stadium,43,36,4,1,1,119.44
+45,2026-05-03,KKR,Angkrish Raghuvanshi,Rajiv Gandhi International Stadium,59,47,5,2,1,125.53
+45,2026-05-03,KKR,Cameron Green,Rajiv Gandhi International Stadium,3,3,0,0,0,100.0
+45,2026-05-03,KKR,Finn Allen,Rajiv Gandhi International Stadium,29,13,3,2,1,223.08
+45,2026-05-03,KKR,Rinku Singh,Rajiv Gandhi International Stadium,22,11,2,1,0,200.0
+45,2026-05-03,SRH,Abhishek Sharma,Rajiv Gandhi International Stadium,15,10,1,1,1,150.0
+45,2026-05-03,SRH,Aniket Verma,Rajiv Gandhi International Stadium,6,8,1,0,1,75.0
+45,2026-05-03,SRH,Eshan Malinga,Rajiv Gandhi International Stadium,2,6,0,0,0,33.33
+45,2026-05-03,SRH,Harshal Patel,Rajiv Gandhi International Stadium,6,5,1,0,1,120.0
+45,2026-05-03,SRH,Heinrich Klaasen,Rajiv Gandhi International Stadium,11,8,1,1,1,137.5
+45,2026-05-03,SRH,Ishan Kishan,Rajiv Gandhi International Stadium,42,29,4,2,1,144.83
+45,2026-05-03,SRH,Pat Cummins,Rajiv Gandhi International Stadium,10,8,0,1,1,125.0
+45,2026-05-03,SRH,Salil Arora,Rajiv Gandhi International Stadium,2,6,0,0,1,33.33
+45,2026-05-03,SRH,Shivang Kumar,Rajiv Gandhi International Stadium,1,2,0,0,1,50.0
+45,2026-05-03,SRH,Smaran Ravichandran,Rajiv Gandhi International Stadium,4,4,1,0,1,100.0
+45,2026-05-03,SRH,Travis Head,Rajiv Gandhi International Stadium,61,28,9,3,1,217.86
+46,2026-05-03,GT,Arshad Khan,Narendra Modi Stadium,8,5,1,0,0,160.0
+46,2026-05-03,GT,Jason Holder,Narendra Modi Stadium,5,7,0,0,1,71.43
+46,2026-05-03,GT,Jos Buttler,Narendra Modi Stadium,26,22,1,2,1,118.18
+46,2026-05-03,GT,Nishant Sindhu,Narendra Modi Stadium,15,11,0,1,1,136.36
+46,2026-05-03,GT,Rahul Tewatia,Narendra Modi Stadium,2,6,0,0,1,33.33
+46,2026-05-03,GT,Sai Sudharsan,Narendra Modi Stadium,57,41,5,1,1,139.02
+46,2026-05-03,GT,Shubman Gill,Narendra Modi Stadium,5,4,1,0,1,125.0
+46,2026-05-03,GT,Washington Sundar,Narendra Modi Stadium,40,23,5,1,0,173.91
+46,2026-05-03,PBKS,Arshdeep Singh,Narendra Modi Stadium,1,1,0,0,0,100.0
+46,2026-05-03,PBKS,Cooper Connolly,Narendra Modi Stadium,0,1,0,0,1,0.0
+46,2026-05-03,PBKS,Marco Jansen,Narendra Modi Stadium,20,11,1,1,1,181.82
+46,2026-05-03,PBKS,Marcus Stoinis,Narendra Modi Stadium,40,31,5,1,1,129.03
+46,2026-05-03,PBKS,Nehal Wadhera,Narendra Modi Stadium,0,6,0,0,1,0.0
+46,2026-05-03,PBKS,Prabhsimran Singh,Narendra Modi Stadium,15,14,2,0,1,107.14
+46,2026-05-03,PBKS,Priyansh Arya,Narendra Modi Stadium,2,2,0,0,1,100.0
+46,2026-05-03,PBKS,Shreyas Iyer,Narendra Modi Stadium,19,21,3,0,1,90.48
+46,2026-05-03,PBKS,Suryansh Shedge,Narendra Modi Stadium,57,29,3,5,1,196.55
+46,2026-05-03,PBKS,Vijaykumar Vyshak,Narendra Modi Stadium,1,3,0,0,0,33.33
+46,2026-05-03,PBKS,Xavier Bartlett,Narendra Modi Stadium,0,1,0,0,1,0.0
+47,2026-05-04,LSG,Aiden Markram,Wankhede Stadium,31,25,1,1,0,124.0
+47,2026-05-04,LSG,Akshat Raghuwanshi,Wankhede Stadium,11,7,0,1,1,157.14
+47,2026-05-04,LSG,Himmat Singh,Wankhede Stadium,40,31,2,2,0,129.03
+47,2026-05-04,LSG,Josh Inglis,Wankhede Stadium,13,5,3,0,1,260.0
+47,2026-05-04,LSG,Mitchell Marsh,Wankhede Stadium,44,25,4,3,1,176.0
+47,2026-05-04,LSG,Nicholas Pooran,Wankhede Stadium,63,21,1,8,1,300.0
+47,2026-05-04,LSG,Rishabh Pant,Wankhede Stadium,15,10,1,1,1,150.0
+47,2026-05-04,MI,Naman Dhir,Wankhede Stadium,23,12,3,1,0,191.67
+47,2026-05-04,MI,Rohit Sharma,Wankhede Stadium,84,44,6,7,1,190.91
+47,2026-05-04,MI,Ryan Rickelton,Wankhede Stadium,83,32,6,8,1,259.38
+47,2026-05-04,MI,Suryakumar Yadav,Wankhede Stadium,12,7,2,0,1,171.43
+47,2026-05-04,MI,Tilak Varma,Wankhede Stadium,11,13,0,0,1,84.62
+47,2026-05-04,MI,Will Jacks,Wankhede Stadium,10,4,0,1,0,250.0
+48,2026-05-05,CSK,Kartik Sharma,Arun Jaitley Stadium,41,31,4,2,0,132.26
+48,2026-05-05,CSK,Ruturaj Gaikwad,Arun Jaitley Stadium,6,13,1,0,1,46.15
+48,2026-05-05,CSK,Sanju Samson,Arun Jaitley Stadium,85,51,7,6,0,166.67
+48,2026-05-05,CSK,Urvil Patel,Arun Jaitley Stadium,17,9,0,2,1,188.89
+48,2026-05-05,DC,Ashutosh Sharma,Arun Jaitley Stadium,14,5,0,2,1,280.0
+48,2026-05-05,DC,Axar Patel,Arun Jaitley Stadium,2,6,0,0,1,33.33
+48,2026-05-05,DC,Karun Nair,Arun Jaitley Stadium,13,13,2,0,1,100.0
+48,2026-05-05,DC,Nitish Rana,Arun Jaitley Stadium,15,13,2,0,1,115.38
+48,2026-05-05,DC,Pathum Nissanka,Arun Jaitley Stadium,19,15,3,1,1,126.67
+48,2026-05-05,DC,Rahul,Arun Jaitley Stadium,12,13,2,0,1,92.31
+48,2026-05-05,DC,Sameer Rizvi,Arun Jaitley Stadium,40,24,0,4,0,166.67
+48,2026-05-05,DC,Tristan Stubbs,Arun Jaitley Stadium,38,31,1,2,1,122.58
+49,2026-05-06,PBKS,Cooper Connolly,Rajiv Gandhi International Stadium,107,59,7,8,0,181.36
+49,2026-05-06,PBKS,Marco Jansen,Rajiv Gandhi International Stadium,19,16,0,1,1,118.75
+49,2026-05-06,PBKS,Marcus Stoinis,Rajiv Gandhi International Stadium,28,14,3,2,1,200.0
+49,2026-05-06,PBKS,Prabhsimran Singh,Rajiv Gandhi International Stadium,3,4,0,0,1,75.0
+49,2026-05-06,PBKS,Priyansh Arya,Rajiv Gandhi International Stadium,1,3,0,0,1,33.33
+49,2026-05-06,PBKS,Shashank Singh,Rajiv Gandhi International Stadium,4,3,1,0,1,133.33
+49,2026-05-06,PBKS,Shreyas Iyer,Rajiv Gandhi International Stadium,5,5,1,0,1,100.0
+49,2026-05-06,PBKS,Suryansh Shedge,Rajiv Gandhi International Stadium,25,17,1,2,1,147.06
+49,2026-05-06,PBKS,Vijaykumar Vyshak,Rajiv Gandhi International Stadium,1,1,0,0,0,100.0
+49,2026-05-06,SRH,Abhishek Sharma,Rajiv Gandhi International Stadium,35,13,2,4,1,269.23
+49,2026-05-06,SRH,Heinrich Klaasen,Rajiv Gandhi International Stadium,69,43,3,4,1,160.47
+49,2026-05-06,SRH,Ishan Kishan,Rajiv Gandhi International Stadium,55,32,2,4,1,171.88
+49,2026-05-06,SRH,Nitish Reddy,Rajiv Gandhi International Stadium,29,13,2,2,0,223.08
+49,2026-05-06,SRH,Travis Head,Rajiv Gandhi International Stadium,38,19,3,3,1,200.0
+50,2026-05-07,LSG,Aiden Markram,Ekana Cricket Stadium,1,1,0,0,0,100.0
+50,2026-05-07,LSG,Arshin Kulkarni,Ekana Cricket Stadium,17,24,1,0,1,70.83
+50,2026-05-07,LSG,Mitchell Marsh,Ekana Cricket Stadium,111,56,9,9,1,198.21
+50,2026-05-07,LSG,Nicholas Pooran,Ekana Cricket Stadium,38,23,4,1,1,165.22
+50,2026-05-07,LSG,Rishabh Pant,Ekana Cricket Stadium,32,10,4,2,0,320.0
+50,2026-05-07,RCB,Devdutt Padikkal,Ekana Cricket Stadium,34,25,3,1,1,136.0
+50,2026-05-07,RCB,Jacob Bethell,Ekana Cricket Stadium,4,5,1,0,1,80.0
+50,2026-05-07,RCB,Jitesh Sharma,Ekana Cricket Stadium,1,3,0,0,1,33.33
+50,2026-05-07,RCB,Krunal Pandya,Ekana Cricket Stadium,28,16,2,2,0,175.0
+50,2026-05-07,RCB,Rajat Patidar,Ekana Cricket Stadium,61,31,3,6,1,196.77
+50,2026-05-07,RCB,Romario Shepherd,Ekana Cricket Stadium,23,15,3,1,0,153.33
+50,2026-05-07,RCB,Tim David,Ekana Cricket Stadium,40,17,4,3,1,235.29
+50,2026-05-07,RCB,Virat Kohli,Ekana Cricket Stadium,0,2,0,0,1,0.0
+51,2026-05-08,DC,Ashutosh Sharma,Arun Jaitley Stadium,39,28,3,3,1,139.29
+51,2026-05-08,DC,Axar Patel,Arun Jaitley Stadium,11,22,0,0,1,50.0
+51,2026-05-08,DC,Lungi Ngidi,Arun Jaitley Stadium,1,1,0,0,0,100.0
+51,2026-05-08,DC,Mitchell Starc,Arun Jaitley Stadium,0,2,0,0,1,0.0
+51,2026-05-08,DC,Nitish Rana,Arun Jaitley Stadium,8,10,1,0,1,80.0
+51,2026-05-08,DC,Pathum Nissanka,Arun Jaitley Stadium,50,29,5,3,0,172.41
+51,2026-05-08,DC,Rahul,Arun Jaitley Stadium,23,14,4,0,1,164.29
+51,2026-05-08,DC,Sameer Rizvi,Arun Jaitley Stadium,3,7,0,0,1,42.86
+51,2026-05-08,DC,Tristan Stubbs,Arun Jaitley Stadium,2,4,0,0,1,50.0
+51,2026-05-08,DC,Vipraj Nigam,Arun Jaitley Stadium,3,3,0,0,0,100.0
+51,2026-05-08,KKR,Ajinkya Rahane,Arun Jaitley Stadium,13,9,1,1,0,144.44
+51,2026-05-08,KKR,Angkrish Raghuvanshi,Arun Jaitley Stadium,1,3,0,0,1,33.33
+51,2026-05-08,KKR,Cameron Green,Arun Jaitley Stadium,33,27,0,2,0,122.22
+51,2026-05-08,KKR,Finn Allen,Arun Jaitley Stadium,100,47,5,10,1,212.77
+52,2026-05-09,GT,Jason Holder,Sawai Mansingh Stadium,7,7,1,0,1,100.0
+52,2026-05-09,GT,Jos Buttler,Sawai Mansingh Stadium,13,10,1,1,1,130.0
+52,2026-05-09,GT,Rahul Tewatia,Sawai Mansingh Stadium,14,4,0,2,0,350.0
+52,2026-05-09,GT,Sai Sudharsan,Sawai Mansingh Stadium,55,36,6,2,1,152.78
+52,2026-05-09,GT,Shubman Gill,Sawai Mansingh Stadium,84,44,9,3,1,190.91
+52,2026-05-09,GT,Washington Sundar,Sawai Mansingh Stadium,37,20,2,3,0,185.0
+52,2026-05-09,RR,Brijesh Sharma,Sawai Mansingh Stadium,1,1,0,0,0,100.0
+52,2026-05-09,RR,Dasun Shanaka,Sawai Mansingh Stadium,16,11,2,0,1,145.45
+52,2026-05-09,RR,Dhruv Jurel,Sawai Mansingh Stadium,24,10,1,3,1,240.0
+52,2026-05-09,RR,Donovan Ferreira,Sawai Mansingh Stadium,4,2,1,0,1,200.0
+52,2026-05-09,RR,Jofra Archer,Sawai Mansingh Stadium,5,6,1,0,1,83.33
+52,2026-05-09,RR,Ravindra Jadeja,Sawai Mansingh Stadium,38,25,3,2,1,152.0
+52,2026-05-09,RR,Shimron Hetmyer,Sawai Mansingh Stadium,6,7,1,0,1,85.71
+52,2026-05-09,RR,Shubham Dubey,Sawai Mansingh Stadium,15,14,1,1,1,107.14
+52,2026-05-09,RR,Tushar Deshpande,Sawai Mansingh Stadium,1,3,0,0,1,33.33
+52,2026-05-09,RR,Vaibhav Sooryavanshi,Sawai Mansingh Stadium,36,16,3,3,1,225.0
+52,2026-05-09,RR,Yashasvi Jaiswal,Sawai Mansingh Stadium,3,4,0,0,1,75.0
+53,2026-05-10,CSK,Dewald Brevis,MA Chidambaram Stadium,10,12,1,0,1,83.33
+53,2026-05-10,CSK,Kartik Sharma,MA Chidambaram Stadium,20,20,1,0,1,100.0
+53,2026-05-10,CSK,Prashant Veer,MA Chidambaram Stadium,18,12,0,2,0,150.0
+53,2026-05-10,CSK,Ruturaj Gaikwad,MA Chidambaram Stadium,42,28,3,2,1,150.0
+53,2026-05-10,CSK,Sanju Samson,MA Chidambaram Stadium,28,14,3,2,1,200.0
+53,2026-05-10,CSK,Shivam Dube,MA Chidambaram Stadium,15,7,0,2,0,214.29
+53,2026-05-10,CSK,Urvil Patel,MA Chidambaram Stadium,65,23,2,8,1,282.61
+53,2026-05-10,LSG,Aiden Markram,MA Chidambaram Stadium,6,7,0,0,0,85.71
+53,2026-05-10,LSG,Akshat Raghuwanshi,MA Chidambaram Stadium,18,18,1,0,1,100.0
+53,2026-05-10,LSG,Himmat Singh,MA Chidambaram Stadium,17,12,1,1,1,141.67
+53,2026-05-10,LSG,Josh Inglis,MA Chidambaram Stadium,81,33,9,6,1,245.45
+53,2026-05-10,LSG,Mitchell Marsh,MA Chidambaram Stadium,10,10,0,1,1,100.0
+53,2026-05-10,LSG,Mohammed Shami,MA Chidambaram Stadium,0,1,0,0,1,0.0
+53,2026-05-10,LSG,Nicholas Pooran,MA Chidambaram Stadium,1,3,0,0,1,33.33
+53,2026-05-10,LSG,Rishabh Pant,MA Chidambaram Stadium,15,12,2,0,1,125.0
+53,2026-05-10,LSG,Shahbaz Ahmed,MA Chidambaram Stadium,43,25,3,3,0,172.0
+54,2026-05-10,MI,Corbin Bosch,Shaheed Veer Narayan Singh Stadium,5,5,0,0,0,100.0
+54,2026-05-10,MI,Deepak Chahar,Shaheed Veer Narayan Singh Stadium,1,2,0,0,0,50.0
+54,2026-05-10,MI,Naman Dhir,Shaheed Veer Narayan Singh Stadium,47,32,5,2,1,146.88
+54,2026-05-10,MI,Raj Bawa,Shaheed Veer Narayan Singh Stadium,16,14,1,0,1,114.29
+54,2026-05-10,MI,Rohit Sharma,Shaheed Veer Narayan Singh Stadium,22,10,2,2,1,220.0
+54,2026-05-10,MI,Ryan Rickelton,Shaheed Veer Narayan Singh Stadium,2,4,0,0,1,50.0
+54,2026-05-10,MI,Suryakumar Yadav,Shaheed Veer Narayan Singh Stadium,0,1,0,0,1,0.0
+54,2026-05-10,MI,Tilak Varma,Shaheed Veer Narayan Singh Stadium,57,42,3,2,1,135.71
+54,2026-05-10,MI,Will Jacks,Shaheed Veer Narayan Singh Stadium,10,10,1,0,1,100.0
+54,2026-05-10,RCB,Bhuvneshwar Kumar,Shaheed Veer Narayan Singh Stadium,7,2,0,1,0,350.0
+54,2026-05-10,RCB,Devdutt Padikkal,Shaheed Veer Narayan Singh Stadium,12,11,1,1,1,109.09
+54,2026-05-10,RCB,Jacob Bethell,Shaheed Veer Narayan Singh Stadium,27,27,2,0,1,100.0
+54,2026-05-10,RCB,Jitesh Sharma,Shaheed Veer Narayan Singh Stadium,18,12,1,2,1,150.0
+54,2026-05-10,RCB,Krunal Pandya,Shaheed Veer Narayan Singh Stadium,73,46,4,5,1,158.7
+54,2026-05-10,RCB,Rajat Patidar,Shaheed Veer Narayan Singh Stadium,8,8,1,0,1,100.0
+54,2026-05-10,RCB,Rasikh Salam Dar,Shaheed Veer Narayan Singh Stadium,3,2,0,0,0,150.0
+54,2026-05-10,RCB,Romario Shepherd,Shaheed Veer Narayan Singh Stadium,4,11,0,0,1,36.36
+54,2026-05-10,RCB,Tim David,Shaheed Veer Narayan Singh Stadium,0,1,0,0,1,0.0
+54,2026-05-10,RCB,Virat Kohli,Shaheed Veer Narayan Singh Stadium,0,1,0,0,1,0.0
+55,2026-05-11,DC,Abishek Porel,HPCA Stadium,5,6,1,0,1,83.33
+55,2026-05-11,DC,Ashutosh Sharma,HPCA Stadium,24,10,2,2,1,240.0
+55,2026-05-11,DC,Auqib Nabi,HPCA Stadium,10,2,1,1,0,500.0
+55,2026-05-11,DC,Axar Patel,HPCA Stadium,56,30,8,2,1,186.67
+55,2026-05-11,DC,David Miller,HPCA Stadium,51,28,3,4,1,182.14
+55,2026-05-11,DC,KL Rahul,HPCA Stadium,0,1,0,0,0,0.0
+55,2026-05-11,DC,Madhav Tiwari,HPCA Stadium,18,8,2,1,0,225.0
+55,2026-05-11,DC,Rahul,HPCA Stadium,9,7,2,0,1,128.57
+55,2026-05-11,DC,Sahil Parakh,HPCA Stadium,13,6,1,1,1,216.67
+55,2026-05-11,DC,Tristan Stubbs,HPCA Stadium,12,17,1,0,0,70.59
+55,2026-05-11,PBKS,Cooper Connolly,HPCA Stadium,38,27,3,2,1,140.74
+55,2026-05-11,PBKS,Marcus Stoinis,HPCA Stadium,1,2,0,0,1,50.0
+55,2026-05-11,PBKS,Prabhsimran Singh,HPCA Stadium,18,15,3,0,1,120.0
+55,2026-05-11,PBKS,Priyansh Arya,HPCA Stadium,56,33,2,6,1,169.7
+55,2026-05-11,PBKS,Shashank Singh,HPCA Stadium,0,1,0,0,1,0.0
+55,2026-05-11,PBKS,Shreyas Iyer,HPCA Stadium,59,36,5,3,0,163.89
+55,2026-05-11,PBKS,Suryansh Shedge,HPCA Stadium,21,8,2,2,0,262.5
+56,2026-05-12,GT,Jason Holder,Narendra Modi Stadium,11,10,0,0,0,110.0
+56,2026-05-12,GT,Jos Buttler,Narendra Modi Stadium,7,11,1,0,1,63.64
+56,2026-05-12,GT,Nishant Sindhu,Narendra Modi Stadium,22,14,3,1,1,157.14
+56,2026-05-12,GT,Rahul Tewatia,Narendra Modi Stadium,4,1,1,0,0,400.0
+56,2026-05-12,GT,Sai Sudharsan,Narendra Modi Stadium,61,44,5,2,1,138.64
+56,2026-05-12,GT,Shubman Gill,Narendra Modi Stadium,5,7,1,0,1,71.43
+56,2026-05-12,GT,Washington Sundar,Narendra Modi Stadium,50,33,7,1,1,151.52
+56,2026-05-12,SRH,Abhishek Sharma,Narendra Modi Stadium,6,4,0,1,1,150.0
+56,2026-05-12,SRH,Eshan Malinga,Narendra Modi Stadium,0,3,0,0,0,0.0
+56,2026-05-12,SRH,Heinrich Klaasen,Narendra Modi Stadium,14,16,2,0,1,87.5
+56,2026-05-12,SRH,Ishan Kishan,Narendra Modi Stadium,11,7,1,1,1,157.14
+56,2026-05-12,SRH,Nitish Reddy,Narendra Modi Stadium,2,4,0,0,1,50.0
+56,2026-05-12,SRH,Pat Cummins,Narendra Modi Stadium,19,9,1,2,1,211.11
+56,2026-05-12,SRH,Praful Hinge,Narendra Modi Stadium,3,8,0,0,1,37.5
+56,2026-05-12,SRH,Salil Arora,Narendra Modi Stadium,16,13,3,0,1,123.08
+56,2026-05-12,SRH,Shivang Kumar,Narendra Modi Stadium,4,6,0,0,1,66.67
+56,2026-05-12,SRH,Smaran Ravichandran,Narendra Modi Stadium,9,15,1,0,1,60.0
+56,2026-05-12,SRH,Travis Head,Narendra Modi Stadium,0,4,0,0,1,0.0
+57,2026-05-13,KKR,Ajinkya Rahane,Shaheed Veer Narayan Singh Stadium,19,13,3,1,1,146.15
+57,2026-05-13,KKR,Angkrish Raghuvanshi,Shaheed Veer Narayan Singh Stadium,71,46,7,3,0,154.35
+57,2026-05-13,KKR,Cameron Green,Shaheed Veer Narayan Singh Stadium,32,24,3,1,1,133.33
+57,2026-05-13,KKR,Finn Allen,Shaheed Veer Narayan Singh Stadium,18,8,3,1,1,225.0
+57,2026-05-13,KKR,Rinku Singh,Shaheed Veer Narayan Singh Stadium,49,29,3,2,1,168.97
+57,2026-05-13,RCB,Devdutt Padikkal,Shaheed Veer Narayan Singh Stadium,39,27,7,0,1,144.44
+57,2026-05-13,RCB,Jacob Bethell,Shaheed Veer Narayan Singh Stadium,15,12,2,1,1,125.0
+57,2026-05-13,RCB,Jitesh Sharma,Shaheed Veer Narayan Singh Stadium,8,5,1,0,0,160.0
+57,2026-05-13,RCB,Rajat Patidar,Shaheed Veer Narayan Singh Stadium,11,8,0,1,1,137.5
+57,2026-05-13,RCB,Tim David,Shaheed Veer Narayan Singh Stadium,2,3,0,0,1,66.67
+57,2026-05-13,RCB,Virat Kohli,Shaheed Veer Narayan Singh Stadium,105,60,11,3,0,175.0
+58,2026-05-14,MI,Naman Dhir,HPCA Stadium,9,6,0,1,1,150.0
+58,2026-05-14,MI,Rohit Sharma,HPCA Stadium,25,26,0,2,1,96.15
+58,2026-05-14,MI,Ryan Rickelton,HPCA Stadium,48,23,4,4,1,208.7
+58,2026-05-14,MI,Sherfane Rutherford,HPCA Stadium,20,21,1,1,1,95.24
+58,2026-05-14,MI,Tilak Varma,HPCA Stadium,75,33,6,6,0,227.27
+58,2026-05-14,MI,Will Jacks,HPCA Stadium,25,10,2,2,0,250.0
+58,2026-05-14,PBKS,Azmatullah Omarzai,HPCA Stadium,38,17,2,4,1,223.53
+58,2026-05-14,PBKS,Cooper Connolly,HPCA Stadium,21,22,2,1,1,95.45
+58,2026-05-14,PBKS,Marco Jansen,HPCA Stadium,2,7,0,0,1,28.57
+58,2026-05-14,PBKS,Prabhsimran Singh,HPCA Stadium,57,32,6,4,1,178.12
+58,2026-05-14,PBKS,Priyansh Arya,HPCA Stadium,22,17,4,0,1,129.41
+58,2026-05-14,PBKS,Shashank Singh,HPCA Stadium,2,3,0,0,1,66.67
+58,2026-05-14,PBKS,Shreyas Iyer,HPCA Stadium,4,2,1,0,1,200.0
+58,2026-05-14,PBKS,Suryansh Shedge,HPCA Stadium,8,5,0,1,1,160.0
+58,2026-05-14,PBKS,Vishnu Vinod,HPCA Stadium,15,8,1,1,0,187.5
+58,2026-05-14,PBKS,Xavier Bartlett,HPCA Stadium,18,7,2,1,0,257.14
+59,2026-05-15,CSK,Dewald Brevis,Ekana Cricket Stadium,25,16,0,2,1,156.25
+59,2026-05-15,CSK,Kartik Sharma,Ekana Cricket Stadium,71,42,6,5,1,169.05
+59,2026-05-15,CSK,Prashant Veer,Ekana Cricket Stadium,13,10,1,0,0,130.0
+59,2026-05-15,CSK,Ruturaj Gaikwad,Ekana Cricket Stadium,13,9,2,0,1,144.44
+59,2026-05-15,CSK,Sanju Samson,Ekana Cricket Stadium,20,20,3,0,1,100.0
+59,2026-05-15,CSK,Shivam Dube,Ekana Cricket Stadium,32,16,3,2,0,200.0
+59,2026-05-15,CSK,Urvil Patel,Ekana Cricket Stadium,6,7,1,0,1,85.71
+59,2026-05-15,LSG,Abdul Samad,Ekana Cricket Stadium,7,3,0,1,1,233.33
+59,2026-05-15,LSG,Josh Inglis,Ekana Cricket Stadium,36,32,3,1,1,112.5
+59,2026-05-15,LSG,Mitchell Marsh,Ekana Cricket Stadium,90,38,9,7,0,236.84
+59,2026-05-15,LSG,Mukul Choudhary,Ekana Cricket Stadium,13,10,2,0,0,130.0
+59,2026-05-15,LSG,Nicholas Pooran,Ekana Cricket Stadium,32,17,1,4,1,188.24
+60,2026-05-16,GT,Jos Buttler,Eden Gardens,57,35,5,2,1,162.86
+60,2026-05-16,GT,Nishant Sindhu,Eden Gardens,1,4,0,0,1,25.0
+60,2026-05-16,GT,Rahul Tewatia,Eden Gardens,2,4,0,0,1,50.0
+60,2026-05-16,GT,Sai Sudharsan,Eden Gardens,53,28,6,3,0,189.29
+60,2026-05-16,GT,Shubman Gill,Eden Gardens,85,49,5,7,1,173.47
+60,2026-05-16,KKR,Ajinkya Rahane,Eden Gardens,14,14,1,1,1,100.0
+60,2026-05-16,KKR,Angkrish Raghuvanshi,Eden Gardens,82,44,4,7,0,186.36
+60,2026-05-16,KKR,Cameron Green,Eden Gardens,52,28,3,4,0,185.71
+60,2026-05-16,KKR,Finn Allen,Eden Gardens,93,35,4,10,1,265.71
+61,2026-05-17,PBKS,Azmatullah Omarzai,HPCA Stadium,14,10,1,1,1,140.0
+61,2026-05-17,PBKS,Cooper Connolly,HPCA Stadium,37,22,3,3,1,168.18
+61,2026-05-17,PBKS,Harpreet Brar,HPCA Stadium,5,3,1,0,0,166.67
+61,2026-05-17,PBKS,Marcus Stoinis,HPCA Stadium,37,25,5,0,1,148.0
+61,2026-05-17,PBKS,Prabhsimran Singh,HPCA Stadium,2,5,0,0,1,40.0
+61,2026-05-17,PBKS,Priyansh Arya,HPCA Stadium,0,3,0,0,1,0.0
+61,2026-05-17,PBKS,Shashank Singh,HPCA Stadium,56,27,4,4,1,207.41
+61,2026-05-17,PBKS,Shreyas Iyer,HPCA Stadium,1,3,0,0,1,33.33
+61,2026-05-17,PBKS,Suryansh Shedge,HPCA Stadium,35,22,2,2,1,159.09
+61,2026-05-17,RCB,Devdutt Padikkal,HPCA Stadium,45,25,4,3,1,180.0
+61,2026-05-17,RCB,Jacob Bethell,HPCA Stadium,11,7,2,0,1,157.14
+61,2026-05-17,RCB,Tim David,HPCA Stadium,28,12,2,2,1,233.33
+61,2026-05-17,RCB,Venkatesh Iyer,HPCA Stadium,73,40,8,4,0,182.5
+61,2026-05-17,RCB,Virat Kohli,HPCA Stadium,58,37,4,3,1,156.76
+62,2026-05-17,DC,Abishek Porel,Arun Jaitley Stadium,51,31,7,1,1,164.52
+62,2026-05-17,DC,Ashutosh Sharma,Arun Jaitley Stadium,18,5,1,2,0,360.0
+62,2026-05-17,DC,Axar Patel,Arun Jaitley Stadium,34,18,2,2,0,188.89
+62,2026-05-17,DC,David Miller,Arun Jaitley Stadium,9,6,0,1,1,150.0
+62,2026-05-17,DC,Rahul,Arun Jaitley Stadium,56,42,1,3,1,133.33
+62,2026-05-17,DC,Sahil Parakh,Arun Jaitley Stadium,9,8,1,0,1,112.5
+62,2026-05-17,DC,Tristan Stubbs,Arun Jaitley Stadium,4,6,0,0,1,66.67
+62,2026-05-17,RR,Adam Milne,Arun Jaitley Stadium,2,2,0,0,0,100.0
+62,2026-05-17,RR,Dasun Shanaka,Arun Jaitley Stadium,10,8,0,1,1,125.0
+62,2026-05-17,RR,Dhruv Jurel,Arun Jaitley Stadium,53,40,5,2,1,132.5
+62,2026-05-17,RR,Donovan Ferreira,Arun Jaitley Stadium,0,1,0,0,1,0.0
+62,2026-05-17,RR,Jofra Archer,Arun Jaitley Stadium,2,2,0,0,0,100.0
+62,2026-05-17,RR,Ravi Singh,Arun Jaitley Stadium,4,2,1,0,1,200.0
+62,2026-05-17,RR,Riyan Parag,Arun Jaitley Stadium,51,26,3,5,1,196.15
+62,2026-05-17,RR,Shubham Dubey,Arun Jaitley Stadium,5,9,0,0,1,55.56
+62,2026-05-17,RR,Vaibhav Sooryavanshi,Arun Jaitley Stadium,46,21,5,3,1,219.05
+62,2026-05-17,RR,Yashasvi Jaiswal,Arun Jaitley Stadium,12,9,3,0,1,133.33
+63,2026-05-18,CSK,Akeal Hosein,MA Chidambaram Stadium,3,1,0,0,0,300.0
+63,2026-05-18,CSK,Dewald Brevis,MA Chidambaram Stadium,44,27,2,4,1,162.96
+63,2026-05-18,CSK,Kartik Sharma,MA Chidambaram Stadium,32,19,3,2,1,168.42
+63,2026-05-18,CSK,Prashant Veer,MA Chidambaram Stadium,11,9,2,0,1,122.22
+63,2026-05-18,CSK,Ruturaj Gaikwad,MA Chidambaram Stadium,15,21,0,0,1,71.43
+63,2026-05-18,CSK,Sanju Samson,MA Chidambaram Stadium,27,13,5,1,1,207.69
+63,2026-05-18,CSK,Shivam Dube,MA Chidambaram Stadium,26,23,3,1,1,113.04
+63,2026-05-18,CSK,Urvil Patel,MA Chidambaram Stadium,13,8,0,2,1,162.5
+63,2026-05-18,SRH,Abhishek Sharma,MA Chidambaram Stadium,26,21,3,1,1,123.81
+63,2026-05-18,SRH,Heinrich Klaasen,MA Chidambaram Stadium,47,26,6,2,1,180.77
+63,2026-05-18,SRH,Ishan Kishan,MA Chidambaram Stadium,71,47,7,3,1,151.06
+63,2026-05-18,SRH,Nitish Reddy,MA Chidambaram Stadium,11,7,1,0,1,157.14
+63,2026-05-18,SRH,Salil Arora,MA Chidambaram Stadium,10,5,0,1,0,200.0
+63,2026-05-18,SRH,Smaran Ravichandran,MA Chidambaram Stadium,5,2,1,0,0,250.0
+63,2026-05-18,SRH,Travis Head,MA Chidambaram Stadium,6,6,1,0,1,100.0
+64,2026-05-19,LSG,Ayush Badoni,Sawai Mansingh Stadium,0,1,0,0,1,0.0
+64,2026-05-19,LSG,Josh Inglis,Sawai Mansingh Stadium,60,29,7,3,1,206.9
+64,2026-05-19,LSG,Mitchell Marsh,Sawai Mansingh Stadium,96,57,11,5,1,168.42
+64,2026-05-19,LSG,Nicholas Pooran,Sawai Mansingh Stadium,16,11,0,2,1,145.45
+64,2026-05-19,LSG,Rishabh Pant,Sawai Mansingh Stadium,35,23,2,2,0,152.17
+64,2026-05-19,RR,Dhruv Jurel,Sawai Mansingh Stadium,53,38,3,3,1,139.47
+64,2026-05-19,RR,Donovan Ferreira,Sawai Mansingh Stadium,16,10,1,1,0,160.0
+64,2026-05-19,RR,Lhuan-dre Pretorius,Sawai Mansingh Stadium,7,6,0,0,0,116.67
+64,2026-05-19,RR,Vaibhav Sooryavanshi,Sawai Mansingh Stadium,93,38,7,10,1,244.74
+64,2026-05-19,RR,Yashasvi Jaiswal,Sawai Mansingh Stadium,43,23,8,1,1,186.96
+65,2026-05-20,KKR,Ajinkya Rahane,Eden Gardens,21,17,4,0,1,123.53
+65,2026-05-20,KKR,Anukul Roy,Eden Gardens,4,4,0,0,0,100.0
+65,2026-05-20,KKR,Cameron Green,Eden Gardens,4,8,0,0,1,50.0
+65,2026-05-20,KKR,Finn Allen,Eden Gardens,8,5,2,0,1,160.0
+65,2026-05-20,KKR,Manish Pandey,Eden Gardens,45,33,6,0,1,136.36
+65,2026-05-20,KKR,Rinku Singh,Eden Gardens,9,5,2,0,0,180.0
+65,2026-05-20,KKR,Rovman Powell,Eden Gardens,40,30,4,2,1,133.33
+65,2026-05-20,KKR,Tejasvi Dahiya,Eden Gardens,11,12,2,0,1,91.67
+65,2026-05-20,MI,Corbin Bosch,Eden Gardens,32,18,3,2,0,177.78
+65,2026-05-20,MI,Deepak Chahar,Eden Gardens,10,7,2,0,1,142.86
+65,2026-05-20,MI,Hardik Pandya,Eden Gardens,26,27,2,1,1,96.3
+65,2026-05-20,MI,Naman Dhir,Eden Gardens,0,3,0,0,1,0.0
+65,2026-05-20,MI,Rohit Sharma,Eden Gardens,15,13,0,2,1,115.38
+65,2026-05-20,MI,Ryan Rickelton,Eden Gardens,6,7,1,0,1,85.71
+65,2026-05-20,MI,Suryakumar Yadav,Eden Gardens,15,6,2,1,1,250.0
+65,2026-05-20,MI,Tilak Varma,Eden Gardens,20,32,0,1,1,62.5
+65,2026-05-20,MI,Will Jacks,Eden Gardens,14,7,1,1,1,200.0
+66,2026-05-21,CSK,Anshul Kamboj,Narendra Modi Stadium,19,8,1,2,1,237.5
+66,2026-05-21,CSK,Dewald Brevis,Narendra Modi Stadium,8,10,0,0,1,80.0
+66,2026-05-21,CSK,Kartik Sharma,Narendra Modi Stadium,19,15,3,0,1,126.67
+66,2026-05-21,CSK,Matthew Short,Narendra Modi Stadium,24,14,3,1,1,171.43
+66,2026-05-21,CSK,Mukesh Choudhary,Narendra Modi Stadium,2,2,0,0,0,100.0
+66,2026-05-21,CSK,Noor Ahmad,Narendra Modi Stadium,1,5,0,0,1,20.0
+66,2026-05-21,CSK,Ruturaj Gaikwad,Narendra Modi Stadium,16,7,1,2,1,228.57
+66,2026-05-21,CSK,Sanju Samson,Narendra Modi Stadium,0,1,0,0,1,0.0
+66,2026-05-21,CSK,Shivam Dube,Narendra Modi Stadium,47,17,4,4,1,276.47
+66,2026-05-21,CSK,Spencer Johnson,Narendra Modi Stadium,0,1,0,0,1,0.0
+66,2026-05-21,CSK,Urvil Patel,Narendra Modi Stadium,0,2,0,0,1,0.0
+66,2026-05-21,GT,Jos Buttler,Narendra Modi Stadium,57,27,5,4,0,211.11
+66,2026-05-21,GT,Rahul Tewatia,Narendra Modi Stadium,0,1,0,0,1,0.0
+66,2026-05-21,GT,Sai Sudharsan,Narendra Modi Stadium,84,53,7,4,1,158.49
+66,2026-05-21,GT,Shubman Gill,Narendra Modi Stadium,64,37,7,3,1,172.97
+66,2026-05-21,GT,Washington Sundar,Narendra Modi Stadium,7,3,0,1,1,233.33
+67,2026-05-22,RCB,Devdutt Padikkal,Rajiv Gandhi International Stadium,21,14,2,1,1,150.0
+67,2026-05-22,RCB,Krunal Pandya,Rajiv Gandhi International Stadium,41,31,5,0,0,132.26
+67,2026-05-22,RCB,Rajat Patidar,Rajiv Gandhi International Stadium,56,39,6,1,1,143.59
+67,2026-05-22,RCB,Tim David,Rajiv Gandhi International Stadium,15,7,1,1,0,214.29
+67,2026-05-22,RCB,Venkatesh Iyer,Rajiv Gandhi International Stadium,44,19,4,4,1,231.58
+67,2026-05-22,RCB,Virat Kohli,Rajiv Gandhi International Stadium,15,11,2,0,1,136.36
+67,2026-05-22,SRH,Abhishek Sharma,Rajiv Gandhi International Stadium,56,22,4,5,1,254.55
+67,2026-05-22,SRH,Heinrich Klaasen,Rajiv Gandhi International Stadium,51,24,2,5,1,212.5
+67,2026-05-22,SRH,Ishan Kishan,Rajiv Gandhi International Stadium,79,46,8,3,1,171.74
+67,2026-05-22,SRH,Nitish Reddy,Rajiv Gandhi International Stadium,29,12,1,3,0,241.67
+67,2026-05-22,SRH,Travis Head,Rajiv Gandhi International Stadium,26,16,5,0,1,162.5
+68,2026-05-23,LSG,Abdul Samad,Ekana Cricket Stadium,37,20,3,3,0,185.0
+68,2026-05-23,LSG,Arjun Tendulkar,Ekana Cricket Stadium,5,5,0,0,0,100.0
+68,2026-05-23,LSG,Arshin Kulkarni,Ekana Cricket Stadium,0,1,0,0,1,0.0
+68,2026-05-23,LSG,Ayush Badoni,Ekana Cricket Stadium,43,18,5,3,1,238.89
+68,2026-05-23,LSG,Josh Inglis,Ekana Cricket Stadium,72,44,9,2,1,163.64
+68,2026-05-23,LSG,Mukul Choudhary,Ekana Cricket Stadium,1,3,0,0,1,33.33
+68,2026-05-23,LSG,Nicholas Pooran,Ekana Cricket Stadium,2,7,0,0,1,28.57
+68,2026-05-23,LSG,Rishabh Pant,Ekana Cricket Stadium,26,22,3,0,1,118.18
+68,2026-05-23,PBKS,Cooper Connolly,Ekana Cricket Stadium,18,10,4,0,1,180.0
+68,2026-05-23,PBKS,Prabhsimran Singh,Ekana Cricket Stadium,69,39,7,2,1,176.92
+68,2026-05-23,PBKS,Priyansh Arya,Ekana Cricket Stadium,0,1,0,0,1,0.0
+68,2026-05-23,PBKS,Shreyas Iyer,Ekana Cricket Stadium,101,50,11,5,0,202.0
+68,2026-05-23,PBKS,Suryansh Shedge,Ekana Cricket Stadium,9,7,1,0,0,128.57
+69,2026-05-24,MI,AM Ghazanfar,Wankhede Stadium,2,3,0,0,0,66.67
+69,2026-05-24,MI,Corbin Bosch,Wankhede Stadium,2,4,0,0,1,50.0
+69,2026-05-24,MI,Deepak Chahar,Wankhede Stadium,8,5,0,1,1,160.0
+69,2026-05-24,MI,Hardik Pandya,Wankhede Stadium,34,15,3,2,1,226.67
+69,2026-05-24,MI,Naman Dhir,Wankhede Stadium,6,5,1,0,1,120.0
+69,2026-05-24,MI,Rohit Sharma,Wankhede Stadium,0,4,0,0,1,0.0
+69,2026-05-24,MI,Ryan Rickelton,Wankhede Stadium,12,7,1,1,1,171.43
+69,2026-05-24,MI,Shardul Thakur,Wankhede Stadium,10,11,1,0,0,90.91
+69,2026-05-24,MI,Suryakumar Yadav,Wankhede Stadium,60,42,3,4,1,142.86
+69,2026-05-24,MI,Tilak Varma,Wankhede Stadium,3,7,0,0,1,42.86
+69,2026-05-24,MI,Will Jacks,Wankhede Stadium,33,18,3,2,1,183.33
+69,2026-05-24,RR,Dasun Shanaka,Wankhede Stadium,29,15,0,3,0,193.33
+69,2026-05-24,RR,Dhruv Jurel,Wankhede Stadium,38,26,3,2,1,146.15
+69,2026-05-24,RR,Donovan Ferreira,Wankhede Stadium,18,15,0,2,1,120.0
+69,2026-05-24,RR,Jofra Archer,Wankhede Stadium,32,15,1,3,1,213.33
+69,2026-05-24,RR,Nandre Burger,Wankhede Stadium,10,3,0,1,0,333.33
+69,2026-05-24,RR,Ravindra Jadeja,Wankhede Stadium,19,11,3,0,0,172.73
+69,2026-05-24,RR,Riyan Parag,Wankhede Stadium,14,8,2,1,1,175.0
+69,2026-05-24,RR,Shubham Dubey,Wankhede Stadium,5,6,0,0,1,83.33
+69,2026-05-24,RR,Vaibhav Sooryavanshi,Wankhede Stadium,4,6,0,0,1,66.67
+69,2026-05-24,RR,Yashasvi Jaiswal,Wankhede Stadium,27,17,1,3,1,158.82
+70,2026-05-24,DC,Abishek Porel,Eden Gardens,22,18,4,0,1,122.22
+70,2026-05-24,DC,Ashutosh Sharma,Eden Gardens,18,11,2,1,0,163.64
+70,2026-05-24,DC,Axar Patel,Eden Gardens,39,25,3,2,1,156.0
+70,2026-05-24,DC,David Miller,Eden Gardens,28,19,0,3,1,147.37
+70,2026-05-24,DC,Rahul,Eden Gardens,60,30,5,4,1,200.0
+70,2026-05-24,DC,Sahil Parakh,Eden Gardens,24,17,3,1,1,141.18
+70,2026-05-24,DC,Tristan Stubbs,Eden Gardens,0,1,0,0,0,0.0
+70,2026-05-24,KKR,Ajinkya Rahane,Eden Gardens,63,39,4,4,1,161.54
+70,2026-05-24,KKR,Anukul Roy,Eden Gardens,9,8,1,0,1,112.5
+70,2026-05-24,KKR,Cameron Green,Eden Gardens,2,3,0,0,1,66.67
+70,2026-05-24,KKR,Finn Allen,Eden Gardens,20,13,3,1,1,153.85
+70,2026-05-24,KKR,Kartik Tyagi,Eden Gardens,0,1,0,0,1,0.0
+70,2026-05-24,KKR,Manish Pandey,Eden Gardens,25,16,2,2,1,156.25
+70,2026-05-24,KKR,Rinku Singh,Eden Gardens,0,1,0,0,1,0.0
+70,2026-05-24,KKR,Rovman Powell,Eden Gardens,29,21,3,1,0,138.1
+70,2026-05-24,KKR,Saurabh Dubey,Eden Gardens,4,2,1,0,0,200.0
+70,2026-05-24,KKR,Tejasvi Dahiya,Eden Gardens,1,3,0,0,1,33.33
+70,2026-05-24,KKR,Varun Chakaravarthy,Eden Gardens,5,5,1,0,1,100.0
+71,2026-05-26,GT,Jason Holder,HPCA Stadium,0,3,0,0,1,0.0
+71,2026-05-26,GT,Jos Buttler,HPCA Stadium,29,11,4,2,1,263.64
+71,2026-05-26,GT,Kagiso Rabada,HPCA Stadium,9,5,2,0,1,180.0
+71,2026-05-26,GT,Mohammed Siraj,HPCA Stadium,5,13,1,0,1,38.46
+71,2026-05-26,GT,Nishant Sindhu,HPCA Stadium,5,3,1,0,1,166.67
+71,2026-05-26,GT,Prasidh Krishna,HPCA Stadium,6,7,1,0,0,85.71
+71,2026-05-26,GT,Rahul Tewatia,HPCA Stadium,68,43,8,4,1,158.14
+71,2026-05-26,GT,Rashid Khan,HPCA Stadium,8,9,0,1,1,88.89
+71,2026-05-26,GT,Sai Sudharsan,HPCA Stadium,14,10,3,0,1,140.0
+71,2026-05-26,GT,Shubman Gill,HPCA Stadium,2,7,0,0,1,28.57
+71,2026-05-26,GT,Washington Sundar,HPCA Stadium,8,8,1,0,1,100.0
+71,2026-05-26,RCB,Devdutt Padikkal,HPCA Stadium,30,19,5,0,1,157.89
+71,2026-05-26,RCB,Jitesh Sharma,HPCA Stadium,15,5,1,1,0,300.0
+71,2026-05-26,RCB,Krunal Pandya,HPCA Stadium,43,28,5,2,1,153.57
+71,2026-05-26,RCB,Rajat Patidar,HPCA Stadium,93,33,5,9,0,281.82
+71,2026-05-26,RCB,Tim David,HPCA Stadium,4,5,0,0,1,80.0
+71,2026-05-26,RCB,Venkatesh Iyer,HPCA Stadium,19,7,3,1,1,271.43
+71,2026-05-26,RCB,Virat Kohli,HPCA Stadium,43,25,5,1,1,172.0
+72,2026-05-27,RR,Dasun Shanaka,New PCA Cricket Stadium,5,3,1,0,1,166.67
+72,2026-05-27,RR,Dhruv Jurel,New PCA Cricket Stadium,50,21,5,3,1,238.1
+72,2026-05-27,RR,Donovan Ferreira,New PCA Cricket Stadium,12,9,1,0,1,133.33
+72,2026-05-27,RR,Jofra Archer,New PCA Cricket Stadium,4,5,1,0,1,80.0
+72,2026-05-27,RR,Nandre Burger,New PCA Cricket Stadium,1,1,0,0,1,100.0
+72,2026-05-27,RR,Ravindra Jadeja,New PCA Cricket Stadium,12,9,1,0,0,133.33
+72,2026-05-27,RR,Riyan Parag,New PCA Cricket Stadium,26,12,2,2,1,216.67
+72,2026-05-27,RR,Sushant Mishra,New PCA Cricket Stadium,1,3,0,0,0,33.33
+72,2026-05-27,RR,Vaibhav Sooryavanshi,New PCA Cricket Stadium,97,29,5,12,1,334.48
+72,2026-05-27,RR,Yashasvi Jaiswal,New PCA Cricket Stadium,29,29,4,0,1,100.0
+72,2026-05-27,SRH,Abhishek Sharma,New PCA Cricket Stadium,0,2,0,0,1,0.0
+72,2026-05-27,SRH,Eshan Malinga,New PCA Cricket Stadium,5,8,0,0,1,62.5
+72,2026-05-27,SRH,Heinrich Klaasen,New PCA Cricket Stadium,18,10,2,1,1,180.0
+72,2026-05-27,SRH,Ishan Kishan,New PCA Cricket Stadium,33,11,3,3,1,300.0
+72,2026-05-27,SRH,Nitish Reddy,New PCA Cricket Stadium,38,20,3,2,1,190.0
+72,2026-05-27,SRH,Pat Cummins,New PCA Cricket Stadium,1,2,0,0,1,50.0
+72,2026-05-27,SRH,Sakib Hussain,New PCA Cricket Stadium,5,7,1,0,0,71.43
+72,2026-05-27,SRH,Salil Arora,New PCA Cricket Stadium,35,21,2,2,1,166.67
+72,2026-05-27,SRH,Shivang Kumar,New PCA Cricket Stadium,27,24,3,0,1,112.5
+72,2026-05-27,SRH,Smaran Ravichandran,New PCA Cricket Stadium,1,4,0,0,1,25.0
+72,2026-05-27,SRH,Travis Head,New PCA Cricket Stadium,17,8,2,1,1,212.5
+73,2026-05-29,GT,Jos Buttler,New PCA Cricket Stadium,9,9,0,0,0,100.0
+73,2026-05-29,GT,Rahul Tewatia,New PCA Cricket Stadium,17,9,2,1,0,188.89
+73,2026-05-29,GT,Sai Sudharsan,New PCA Cricket Stadium,58,32,8,1,1,181.25
+73,2026-05-29,GT,Shubman Gill,New PCA Cricket Stadium,104,53,15,3,1,196.23
+73,2026-05-29,GT,Washington Sundar,New PCA Cricket Stadium,16,9,2,1,1,177.78
+73,2026-05-29,RR,Dasun Shanaka,New PCA Cricket Stadium,3,9,0,0,1,33.33
+73,2026-05-29,RR,Dhruv Jurel,New PCA Cricket Stadium,7,6,1,0,1,116.67
+73,2026-05-29,RR,Donovan Ferreira,New PCA Cricket Stadium,38,11,2,4,0,345.45
+73,2026-05-29,RR,Jofra Archer,New PCA Cricket Stadium,7,4,0,1,1,175.0
+73,2026-05-29,RR,Ravindra Jadeja,New PCA Cricket Stadium,45,35,5,1,0,128.57
+73,2026-05-29,RR,Riyan Parag,New PCA Cricket Stadium,11,6,1,1,1,183.33
+73,2026-05-29,RR,Vaibhav Sooryavanshi,New PCA Cricket Stadium,96,47,8,7,1,204.26
+73,2026-05-29,RR,Yashasvi Jaiswal,New PCA Cricket Stadium,1,2,0,0,1,50.0
+74,2026-05-31,GT,Arshad Khan,Narendra Modi Stadium,15,6,0,2,1,250.0
+74,2026-05-31,GT,Jason Holder,Narendra Modi Stadium,7,5,1,0,1,140.0
+74,2026-05-31,GT,Jos Buttler,Narendra Modi Stadium,19,23,1,0,1,82.61
+74,2026-05-31,GT,Kagiso Rabada,Narendra Modi Stadium,3,3,0,0,0,100.0
+74,2026-05-31,GT,Nishant Sindhu,Narendra Modi Stadium,20,18,3,0,1,111.11
+74,2026-05-31,GT,Rahul Tewatia,Narendra Modi Stadium,7,5,1,0,1,140.0
+74,2026-05-31,GT,Rashid Khan,Narendra Modi Stadium,7,3,0,1,1,233.33
+74,2026-05-31,GT,Sai Sudharsan,Narendra Modi Stadium,12,12,2,0,1,100.0
+74,2026-05-31,GT,Shubman Gill,Narendra Modi Stadium,10,8,2,0,1,125.0
+74,2026-05-31,GT,Washington Sundar,Narendra Modi Stadium,50,37,5,0,0,135.14
+74,2026-05-31,RCB,Devdutt Padikkal,Narendra Modi Stadium,1,4,0,0,1,25.0
+74,2026-05-31,RCB,Jitesh Sharma,Narendra Modi Stadium,11,14,1,0,0,78.57
+74,2026-05-31,RCB,Krunal Pandya,Narendra Modi Stadium,1,2,0,0,1,50.0
+74,2026-05-31,RCB,Rajat Patidar,Narendra Modi Stadium,15,13,1,1,1,115.38
+74,2026-05-31,RCB,Tim David,Narendra Modi Stadium,24,17,3,1,1,141.18
+74,2026-05-31,RCB,Venkatesh Iyer,Narendra Modi Stadium,32,16,4,2,1,200.0
+74,2026-05-31,RCB,Virat Kohli,Narendra Modi Stadium,75,42,9,3,0,178.57

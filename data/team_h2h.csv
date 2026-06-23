@@ -1,0 +1,95 @@
+team_a,team_b,matches,wins,losses,win_pct
+Chennai Super Kings,Delhi Capitals,6,4,2,66.7
+Chennai Super Kings,Gujarat Titans,8,2,6,25.0
+Chennai Super Kings,Kolkata Knight Riders,7,4,3,57.1
+Chennai Super Kings,Lucknow Super Giants,8,3,5,37.5
+Chennai Super Kings,Mumbai Indians,9,7,2,77.8
+Chennai Super Kings,Punjab Kings,8,1,7,12.5
+Chennai Super Kings,Rajasthan Royals,7,1,6,14.3
+Chennai Super Kings,Royal Challengers Bengaluru,8,3,5,37.5
+Chennai Super Kings,Sunrisers Hyderabad,7,2,5,28.6
+Chennai Super Kings,Sunrises Hyderabad,1,1,0,100.0
+Delhi Capitals,Chennai Super Kings,6,2,4,33.3
+Delhi Capitals,Gujarat Titans,8,3,5,37.5
+Delhi Capitals,Kolkata Knight Riders,8,4,4,50.0
+Delhi Capitals,Lucknow Super Giants,8,5,3,62.5
+Delhi Capitals,Mumbai Indians,8,3,5,37.5
+Delhi Capitals,Punjab Kings,7,4,3,57.1
+Delhi Capitals,Rajasthan Royals,8,5,3,62.5
+Delhi Capitals,Royal Challengers Bengaluru,8,3,5,37.5
+Delhi Capitals,Sunriders Hyderabad,1,0,1,0.0
+Delhi Capitals,Sunrisers Hyderabad,6,3,3,50.0
+Gujarat Titans,Chennai Super Kings,8,6,2,75.0
+Gujarat Titans,Delhi Capitals,8,5,3,62.5
+Gujarat Titans,Kolkata Knight Riders,6,4,2,66.7
+Gujarat Titans,Lucknow Super Giants,8,5,3,62.5
+Gujarat Titans,Mumbai Indians,8,4,4,50.0
+Gujarat Titans,Punjab Kings,8,4,4,50.0
+Gujarat Titans,Rajasthan Royals,11,8,3,72.7
+Gujarat Titans,Royal Challengers Bengaluru,9,3,6,33.3
+Gujarat Titans,Sunrisers Hyderabad,7,6,1,85.7
+Kolkata Knight Riders,Chennai Super Kings,7,3,4,42.9
+Kolkata Knight Riders,Delhi Capitals,8,4,4,50.0
+Kolkata Knight Riders,Gujarat Titans,6,2,4,33.3
+Kolkata Knight Riders,Lucknow Super Giants,7,2,5,28.6
+Kolkata Knight Riders,Mumbai Indians,8,5,3,62.5
+Kolkata Knight Riders,Punjab Kings,6,2,4,33.3
+Kolkata Knight Riders,Rajasthan Royals,7,4,3,57.1
+Kolkata Knight Riders,Royal Challengers Bengaluru,7,4,3,57.1
+Kolkata Knight Riders,Sunrisers Hyderabad,11,7,4,63.6
+Lucknow Super Giants,Chennai Super Kings,8,4,4,50.0
+Lucknow Super Giants,Delhi Capitals,8,3,5,37.5
+Lucknow Super Giants,Gujarat Titans,8,3,5,37.5
+Lucknow Super Giants,Kolkata Knight Riders,7,5,2,71.4
+Lucknow Super Giants,Mumbai Indians,8,6,2,75.0
+Lucknow Super Giants,Punjab Kings,8,3,5,37.5
+Lucknow Super Giants,Rajasthan Royals,8,2,6,25.0
+Lucknow Super Giants,Royal Challengers Bengaluru,8,3,5,37.5
+Lucknow Super Giants,Sunrisers Hyderabad,7,5,2,71.4
+Mumbai Indians,Chennai Super Kings,9,2,7,22.2
+Mumbai Indians,Delhi Capitals,8,5,3,62.5
+Mumbai Indians,Gujarat Titans,8,4,4,50.0
+Mumbai Indians,Kolkata Knight Riders,8,3,5,37.5
+Mumbai Indians,Lucknow Super Giants,8,2,6,25.0
+Mumbai Indians,Punjab Kings,8,2,6,25.0
+Mumbai Indians,Rajasthan Royals,8,3,5,37.5
+Mumbai Indians,Royal Challengers Bengaluru,7,2,5,28.6
+Mumbai Indians,Sunrisers Hyderabad,7,4,3,57.1
+Punjab Kings,Chennai Super Kings,8,7,1,87.5
+Punjab Kings,Delhi Capitals,7,3,4,42.9
+Punjab Kings,Gujarat Titans,8,4,4,50.0
+Punjab Kings,Kolkata Knight Riders,6,3,3,50.0
+Punjab Kings,Lucknow Super Giants,8,5,3,62.5
+Punjab Kings,Mumbai Indians,8,5,3,62.5
+Punjab Kings,Rajasthan Royals,7,3,4,42.9
+Punjab Kings,Royal Challengers Bengaluru,10,3,7,30.0
+Punjab Kings,Sunrisers Hyderabad,8,2,6,25.0
+Rajasthan Royals,Chennai Super Kings,7,6,1,85.7
+Rajasthan Royals,Delhi Capitals,8,3,5,37.5
+Rajasthan Royals,Gujarat Titans,11,3,8,27.3
+Rajasthan Royals,Kolkata Knight Riders,7,3,4,42.9
+Rajasthan Royals,Lucknow Super Giants,8,6,2,75.0
+Rajasthan Royals,Mumbai Indians,8,5,3,62.5
+Rajasthan Royals,Punjab Kings,7,4,3,57.1
+Rajasthan Royals,Royal Challengers Bengaluru,10,5,5,50.0
+Rajasthan Royals,Sunrisers Hyderabad,9,3,6,33.3
+Royal Challengers Bengaluru,Chennai Super Kings,8,5,3,62.5
+Royal Challengers Bengaluru,Delhi Capitals,8,5,3,62.5
+Royal Challengers Bengaluru,Gujarat Titans,9,6,3,66.7
+Royal Challengers Bengaluru,Kolkata Knight Riders,7,3,4,42.9
+Royal Challengers Bengaluru,Lucknow Super Giants,8,5,3,62.5
+Royal Challengers Bengaluru,Mumbai Indians,7,5,2,71.4
+Royal Challengers Bengaluru,Punjab Kings,10,7,3,70.0
+Royal Challengers Bengaluru,Rajasthan Royals,10,5,5,50.0
+Royal Challengers Bengaluru,Sunrisers Hyderabad,7,3,4,42.9
+Sunriders Hyderabad,Delhi Capitals,1,0,1,0.0
+Sunrisers Hyderabad,Chennai Super Kings,7,5,2,71.4
+Sunrisers Hyderabad,Delhi Capitals,6,2,4,33.3
+Sunrisers Hyderabad,Gujarat Titans,7,1,6,14.3
+Sunrisers Hyderabad,Kolkata Knight Riders,11,4,7,36.4
+Sunrisers Hyderabad,Lucknow Super Giants,7,2,5,28.6
+Sunrisers Hyderabad,Mumbai Indians,7,3,4,42.9
+Sunrisers Hyderabad,Punjab Kings,8,6,2,75.0
+Sunrisers Hyderabad,Rajasthan Royals,9,6,3,66.7
+Sunrisers Hyderabad,Royal Challengers Bengaluru,7,4,3,57.1
+Sunrises Hyderabad,Chennai Super Kings,1,0,1,0.0

@@ -1,0 +1,258 @@
+team_no,team_name,player,nationality,role,designation,team_abbrev
+1,Mumbai Indians,Hardik Pandya,Indian,All Rounder,Captain,MI
+1,Mumbai Indians,Rohit Sharma,Indian,Batter,,MI
+1,Mumbai Indians,Suryakumar Yadav,Indian,Batter,,MI
+1,Mumbai Indians,Jasprit Bumrah,Indian,Bowler,,MI
+1,Mumbai Indians,Ryan Rickelton,Overseas,Wicket Keeper,,MI
+1,Mumbai Indians,Sherfane Rutherford,Overseas,Batter,,MI
+1,Mumbai Indians,Naman Dhir,Indian,All Rounder,,MI
+1,Mumbai Indians,Will Jacks,Overseas,All Rounder,,MI
+1,Mumbai Indians,Shardul Thakur,Indian,All Rounder,,MI
+1,Mumbai Indians,Trent Boult,Overseas,Bowler,,MI
+1,Mumbai Indians,AM Ghazanfar,Overseas,Bowler,,MI
+1,Mumbai Indians,Mitchell Santner,Overseas,All Rounder,,MI
+1,Mumbai Indians,Tilak Varma,Indian,Batter,,MI
+1,Mumbai Indians,Quinton de Kock,Overseas,Wicket Keeper,,MI
+1,Mumbai Indians,Robin Minz,Indian,Wicket Keeper,,MI
+1,Mumbai Indians,Deepak Chahar,Indian,Bowler,,MI
+1,Mumbai Indians,Ashwani Kumar,Indian,Bowler,,MI
+1,Mumbai Indians,Mayank Markande,Indian,Bowler,,MI
+1,Mumbai Indians,Raj Bawa,Indian,All Rounder,,MI
+1,Mumbai Indians,Corbin Bosch,Overseas,All Rounder,,MI
+1,Mumbai Indians,Danish Malewar,Indian,Batter,,MI
+1,Mumbai Indians,Atharva Ankolekar,Indian,All Rounder,,MI
+1,Mumbai Indians,Mayank Rawat,Indian,All Rounder,,MI
+1,Mumbai Indians,Raghu Sharma,Indian,Bowler,,MI
+1,Mumbai Indians,Mohd Izhar,Indian,Bowler,,MI
+2,Chennai Super Kings,Ruturaj Gaikwad,Indian,Batter,Captain,CSK
+2,Chennai Super Kings,Dewald Brevis,Overseas,Batter,,CSK
+2,Chennai Super Kings,MS Dhoni,Indian,Wicket Keeper,,CSK
+2,Chennai Super Kings,Kartik Sharma,Indian,Wicket Keeper,,CSK
+2,Chennai Super Kings,Sarfaraz Khan,Indian,Batter,,CSK
+2,Chennai Super Kings,Ayush Matre,Indian,Batter,,CSK
+2,Chennai Super Kings,Urvil Patel,Indian,Batter,,CSK
+2,Chennai Super Kings,Sanju Samson,Indian,Wicket Keeper,,CSK
+2,Chennai Super Kings,Aman Khan,Indian,All Rounder,,CSK
+2,Chennai Super Kings,Shivam Dubey,Indian,All Rounder,,CSK
+2,Chennai Super Kings,Zak Foulkes,Overseas,All Rounder,,CSK
+2,Chennai Super Kings,Ramakrishna Ghosh,Indian,All Rounder,,CSK
+2,Chennai Super Kings,Anshul Kamboj,Indian,All Rounder,,CSK
+2,Chennai Super Kings,Jamie Overton,Overseas,All Rounder,,CSK
+2,Chennai Super Kings,Matthew Short,Overseas,All Rounder,,CSK
+2,Chennai Super Kings,Prashant Veer,Indian,All Rounder,,CSK
+2,Chennai Super Kings,Khaleel Ahmed,Indian,Bowler,,CSK
+2,Chennai Super Kings,Rahul Chahar,Indian,Bowler,,CSK
+2,Chennai Super Kings,Shreyas Gopal,Indian,Bowler,,CSK
+2,Chennai Super Kings,Matt Henry,Overseas,Bowler,,CSK
+2,Chennai Super Kings,Gurjapneet Singh,Indian,Bowler,,CSK
+2,Chennai Super Kings,Akeal Hosein,Overseas,Bowler,,CSK
+2,Chennai Super Kings,Mukesh Choudhary,Indian,Bowler,,CSK
+2,Chennai Super Kings,Spencer Johnson,Overseas,Bowler,,CSK
+2,Chennai Super Kings,Noor Ahmad ,Overseas,Bowler,,CSK
+2,Chennai Super Kings,Nathan Ellis,Overseas,Bowler,,CSK
+3,Kolkata Night Riders,Ajinkya Rahane,Indian,Batter,Captain,KKR
+3,Kolkata Night Riders,Rinku Singh,Indian,Batter,,KKR
+3,Kolkata Night Riders,Finn Allen,Overseas,Batter,,KKR
+3,Kolkata Night Riders,Rahul Tripathi,Indian,Batter,,KKR
+3,Kolkata Night Riders,Manish Pandey,Indian,Batter,,KKR
+3,Kolkata Night Riders,Rovman Powell,Overseas,Batter,,KKR
+3,Kolkata Night Riders,Angkrish Raghuvanshi,Indian,Batter,,KKR
+3,Kolkata Night Riders,Ramandeep Singh,Indian,Batter,,KKR
+3,Kolkata Night Riders,Sarthak Ranjan,Indian,Batter,,KKR
+3,Kolkata Night Riders,Tim Seifert,Overseas,Wicket Keeper,,KKR
+3,Kolkata Night Riders,Tejasvi Dahiya,Indian,Wicket Keeper,,KKR
+3,Kolkata Night Riders,Daksh Kamra,Indian,All Rounder,,KKR
+3,Kolkata Night Riders,Sunil Narine,Overseas,All Rounder,,KKR
+3,Kolkata Night Riders,Cameron Green,Overseas,All Rounder,,KKR
+3,Kolkata Night Riders,Rachin Ravindra,Overseas,All Rounder,,KKR
+3,Kolkata Night Riders,Anukul Roy,Indian,All Rounder,,KKR
+3,Kolkata Night Riders,Vaibhav Arora,Indian,Bowler,,KKR
+3,Kolkata Night Riders,Saurabh Dubey,Indian,Bowler,,KKR
+3,Kolkata Night Riders,Kartik Tyagi,Indian,Bowler,,KKR
+3,Kolkata Night Riders,Navdeep Saini,Indian,Bowler,,KKR
+3,Kolkata Night Riders,Prashant Solanki,Indian,Bowler,,KKR
+3,Kolkata Night Riders,Umran Malik,Indian,Bowler,,KKR
+3,Kolkata Night Riders,Akash Deep,Indian,Bowler,,KKR
+3,Kolkata Night Riders,Varun Chakravarthy,Indian,Bowler,,KKR
+3,Kolkata Night Riders,Harshit Rana,Indian,Bowler,,KKR
+3,Kolkata Night Riders,Mustafizur Rahman,Overseas,Bowler,,KKR
+3,Kolkata Night Riders,Blessing Muzarabani,Overseas,Bowler,,KKR
+3,Kolkata Night Riders,Matheesha Pathirana,Overseas,Bowler,,KKR
+4,Royal Challengers Bengaluru,Rajat Patidar,Indian,Batter,Captain,RCB
+4,Royal Challengers Bengaluru,Virat Kohli,Indian,Batter,,RCB
+4,Royal Challengers Bengaluru,Tim David,Overseas,Batter,,RCB
+4,Royal Challengers Bengaluru,Devdutt Padikal,Indian,Batter,,RCB
+4,Royal Challengers Bengaluru,Phil Salt,Overseas,Wicket Keeper,,RCB
+4,Royal Challengers Bengaluru,Jitesh Sharma,Indian,Wicket Keeper,,RCB
+4,Royal Challengers Bengaluru,Jordan Cox,Overseas,Wicket Keeper,,RCB
+4,Royal Challengers Bengaluru,Venkatesh Iyer,Indian,All Rounder,,RCB
+4,Royal Challengers Bengaluru,Krunal Pandya,Indian,All Rounder,,RCB
+4,Royal Challengers Bengaluru,Mangesh Yadav,Indian,All Rounder,,RCB
+4,Royal Challengers Bengaluru,Vihaan Malhotra,Indian,All Rounder,,RCB
+4,Royal Challengers Bengaluru,Jacob Bethell,Overseas,All Rounder,,RCB
+4,Royal Challengers Bengaluru,Romario Shepherd,Overseas,All Rounder,,RCB
+4,Royal Challengers Bengaluru,Kanishk Chouhan,Indian,All Rounder,,RCB
+4,Royal Challengers Bengaluru,Jacob Duffy,Overseas,Bowler,,RCB
+4,Royal Challengers Bengaluru,Josh Hazlewood,Overseas,Bowler,,RCB
+4,Royal Challengers Bengaluru,Nuwan Thushara,Overseas,Bowler,,RCB
+4,Royal Challengers Bengaluru,Bhuvneshwar Kumar,Indian,Bowler,,RCB
+4,Royal Challengers Bengaluru,Yash Dayal,Indian,Bowler,,RCB
+4,Royal Challengers Bengaluru,Suyash Sharma,Indian,Bowler,,RCB
+4,Royal Challengers Bengaluru,Swapnil Singh,Indian,Bowler,,RCB
+4,Royal Challengers Bengaluru,Rasikh Salam,Indian,Bowler,,RCB
+4,Royal Challengers Bengaluru,Vicky Ostwal,Indian,Bowler,,RCB
+4,Royal Challengers Bengaluru,Satvik Deswal,Indian,Bowler,,RCB
+4,Royal Challengers Bengaluru,Abhinandan Singh,Indian,Bowler,,RCB
+5,Gujrat Titans,Shubman Gill,Indian,Batter,Captain,GT
+5,Gujrat Titans,Sai Sudharsan,Indian,Batter,,GT
+5,Gujrat Titans,Shahrukh Khan,Indian,Batter,,GT
+5,Gujrat Titans,Jos Buttler,Overseas,Wicket Keeper,,GT
+5,Gujrat Titans,Tom Banton,Overseas,Wicket Keeper,,GT
+5,Gujrat Titans,Anuj Rawat,Indian,Wicket Keeper,,GT
+5,Gujrat Titans,Kumar Kushagra,Indian,Wicket Keeper,,GT
+5,Gujrat Titans,Washington Sundar,Indian,All Rounder,,GT
+5,Gujrat Titans,Rahul Tewatia,Indian,All Rounder,,GT
+5,Gujrat Titans,Manav Suthar,Indian,All Rounder,,GT
+5,Gujrat Titans,Nishant Sindhu,Indian,All Rounder,,GT
+5,Gujrat Titans,Rashid Khan,Overseas,All Rounder,,GT
+5,Gujrat Titans,Glenn Phillips,Overseas,All Rounder,,GT
+5,Gujrat Titans,Jason Holder,Overseas,All Rounder,,GT
+5,Gujrat Titans,Arshad Khan,Indian,Bowler,,GT
+5,Gujrat Titans,Ashok Sharma,Indian,Bowler,,GT
+5,Gujrat Titans,Kulwant Khejroliya,Indian,Bowler,,GT
+5,Gujrat Titans,Gurnoor Brar,Indian,Bowler,,GT
+5,Gujrat Titans,Mohammed Siraj,Indian,Bowler,,GT
+5,Gujrat Titans,Prasidh Krishna,Indian,Bowler,,GT
+5,Gujrat Titans,Sai Kishore,Indian,Bowler,,GT
+5,Gujrat Titans,Ishant Sharma,Indian,Bowler,,GT
+5,Gujrat Titans,Jayant Yadav,Indian,Bowler,,GT
+5,Gujrat Titans,Prithvi Raj,Indian,Bowler,,GT
+5,Gujrat Titans,Luke Wood,Overseas,Bowler,,GT
+5,Gujrat Titans,Kagiso Rabada,Overseas,Bowler,,GT
+6,Rajasthan Royals,Riyan Parag,Indian,Batter,Captain,RR
+6,Rajasthan Royals,Aman Rao,Indian,Batter,,RR
+6,Rajasthan Royals,Shubham Dubey,Indian,Batter,,RR
+6,Rajasthan Royals,Shimron Hetmyer,Overseas,Batter,,RR
+6,Rajasthan Royals,Yashasvi Jaiswal,Indian,Batter,,RR
+6,Rajasthan Royals,Ravi Singh,Indian,Batter,,RR
+6,Rajasthan Royals,Vaibhav Sooryavanshi,Indian,Batter,,RR
+6,Rajasthan Royals,Dhruv Jurel,Indian,Wicket Keeper,,RR
+6,Rajasthan Royals,Lhuan-dre Pretorius,Overseas,Wicket Keeper,,RR
+6,Rajasthan Royals,Ravindra Jadeja,Indian,All Rounder,,RR
+6,Rajasthan Royals,Sam Curran,Overseas,All Rounder,,RR
+6,Rajasthan Royals,Dasun Shanaka,Overseas,All Rounder,,RR
+6,Rajasthan Royals,Donovan Ferreira,Overseas,All Rounder,,RR
+6,Rajasthan Royals,Jofra Archer,Overseas,Bowler,,RR
+6,Rajasthan Royals,Nandre Burger,Overseas,Bowler,,RR
+6,Rajasthan Royals,Adam Milne,Overseas,Bowler,,RR
+6,Rajasthan Royals,Kwena Maphaka,Overseas,Bowler,,RR
+6,Rajasthan Royals,Vignesh Puthur,Indian,Bowler,,RR
+6,Rajasthan Royals,Sandeep Sharma,Indian,Bowler,,RR
+6,Rajasthan Royals,Brijesh Sharma,Indian,Bowler,,RR
+6,Rajasthan Royals,Sushant Mishra,Indian,Bowler,,RR
+6,Rajasthan Royals,Ravi Bishnoi,Indian,Bowler,,RR
+6,Rajasthan Royals,Kuldeep Sen,Indian,Bowler,,RR
+6,Rajasthan Royals,Yash Raj Punja,Indian,Bowler,,RR
+6,Rajasthan Royals,Tushar Deshpande,Indian,Bowler,,RR
+6,Rajasthan Royals,Yudhvir Singh,Indian,Bowler,,RR
+7,Sunrisers Hyderabad,Ishan Kishan,Indian,Wicket Keeper,Captain,SRH
+7,Sunrisers Hyderabad,Travis Head,Overseas,Batter,,SRH
+7,Sunrisers Hyderabad,Aniket Verma,Indian,Batter,,SRH
+7,Sunrisers Hyderabad,Ravichandran Smaran,Indian,Batter,,SRH
+7,Sunrisers Hyderabad,Heinrich Klaasen,Overseas,Wicket Keeper,,SRH
+7,Sunrisers Hyderabad,Salil Arora,Indian,Wicket Keeper,,SRH
+7,Sunrisers Hyderabad,Abhishek Sharma,Indian,All Rounder,,SRH
+7,Sunrisers Hyderabad,Harsh Dubey,Indian,All Rounder,,SRH
+7,Sunrisers Hyderabad,Krains Fuletra,Indian,All Rounder,,SRH
+7,Sunrisers Hyderabad,Harshal Patel,Indian,All Rounder,,SRH
+7,Sunrisers Hyderabad,Shivam Mavi,Indian,All Rounder,,SRH
+7,Sunrisers Hyderabad,Nitish Kumar Reddy,Indian,All Rounder,,SRH
+7,Sunrisers Hyderabad,Shivang Kumar,Indian,All Rounder,,SRH
+7,Sunrisers Hyderabad,Brydon Carse,Overseas,All Rounder,,SRH
+7,Sunrisers Hyderabad,Liam Livingstone,Overseas,All Rounder,,SRH
+7,Sunrisers Hyderabad,Jack Edwards,Overseas,All Rounder,,SRH
+7,Sunrisers Hyderabad,Kamindu Mendis,Overseas,All Rounder,,SRH
+7,Sunrisers Hyderabad,Eshan Malinga,Overseas,Bowler,,SRH
+7,Sunrisers Hyderabad,Pat Cummins,Overseas,Bowler,,SRH
+7,Sunrisers Hyderabad,David Payne,Overseas,Bowler,,SRH
+7,Sunrisers Hyderabad,Sakib Hussain,Indian,Bowler,,SRH
+7,Sunrisers Hyderabad,Onkar Tarmale,Indian,Bowler,,SRH
+7,Sunrisers Hyderabad,Jaydev Unadkat,Indian,Bowler,,SRH
+7,Sunrisers Hyderabad,Zeeshan Ansari,Indian,Bowler,,SRH
+7,Sunrisers Hyderabad,Praful Hinge,Indian,Bowler,,SRH
+7,Sunrisers Hyderabad,Amit Kumar,Indian,Bowler,,SRH
+8,Punjab Kings,Shreyas Iyer,Indian,Batter,Captain,PBKS
+8,Punjab Kings,Priyansh Arya,Indian,Batter,,PBKS
+8,Punjab Kings,Harnoor Singh,Indian,Batter,,PBKS
+8,Punjab Kings,Pyla Avinash,Indian,Batter,,PBKS
+8,Punjab Kings,Nehal Wadhera,Indian,Batter,,PBKS
+8,Punjab Kings,Vishnu Vinod,Indian,Wicket Keeper,,PBKS
+8,Punjab Kings,Prabhsimran Singh,Indian,Wicket Keeper,,PBKS
+8,Punjab Kings,Marco Jansen,Overseas,All Rounder,,PBKS
+8,Punjab Kings,Cooper Connolly,Overseas,All Rounder,,PBKS
+8,Punjab Kings,Mitchell Owen,Overseas,All Rounder,,PBKS
+8,Punjab Kings,Marcus Stoinis,Overseas,All Rounder,,PBKS
+8,Punjab Kings,Azmatullah Omarzai,Overseas,All Rounder,,PBKS
+8,Punjab Kings,Shashank Singh,Indian,All Rounder,,PBKS
+8,Punjab Kings,Suryansh Shedge,Indian,All Rounder,,PBKS
+8,Punjab Kings,Musheer Khan,Indian,All Rounder,,PBKS
+8,Punjab Kings,Arshdeep Singh,Indian,Bowler,,PBKS
+8,Punjab Kings,Yuzvendra Chahal,Indian,Bowler,,PBKS
+8,Punjab Kings,Harpreet Brar,Indian,Bowler,,PBKS
+8,Punjab Kings,Vishal Nishad,Indian,Bowler,,PBKS
+8,Punjab Kings,Vijaykumar Vyshak,Indian,Bowler,,PBKS
+8,Punjab Kings,Yash Thakur,Indian,Bowler,,PBKS
+8,Punjab Kings,Praveen Dubey,Indian,Bowler,,PBKS
+8,Punjab Kings,Xavier Bartlett,Overseas,Bowler,,PBKS
+8,Punjab Kings,Ben Dwarshuis,Overseas,Bowler,,PBKS
+8,Punjab Kings,Lockie Ferguson,Overseas,Bowler,,PBKS
+9,Delhi Capitals,Axar Patel,Indian,All Rounder,Captain,DC
+9,Delhi Capitals,Prithvi Shaw,Indian,Batter,,DC
+9,Delhi Capitals,Pathum Nissanka,Overseas,Batter,,DC
+9,Delhi Capitals,David Miller,Overseas,Batter,,DC
+9,Delhi Capitals,Karun Nair,Indian,Batter,,DC
+9,Delhi Capitals,Sahil Parakh,Indian,Batter,,DC
+9,Delhi Capitals,Nitish Rana,Indian,Batter,,DC
+9,Delhi Capitals,Abhishek Porel,Indian,Wicket Keeper,,DC
+9,Delhi Capitals,KL Rahul ,Indian,Wicket Keeper,,DC
+9,Delhi Capitals,Ben Duckett,Overseas,Wicket Keeper,,DC
+9,Delhi Capitals,Tristan Stubbs,Overseas,Wicket Keeper,,DC
+9,Delhi Capitals,Sameer Rizvi,Indian,All Rounder,,DC
+9,Delhi Capitals,Ashutosh Sharma,Indian,All Rounder,,DC
+9,Delhi Capitals,Ajay Mandal,Indian,All Rounder,,DC
+9,Delhi Capitals,Madhav Tiwari,Indian,All Rounder,,DC
+9,Delhi Capitals,Vipraj Nigam,Indian,Bowler,,DC
+9,Delhi Capitals,Tripurana Vijay,Indian,Bowler,,DC
+9,Delhi Capitals,Mukesh Kumar,Indian,Bowler,,DC
+9,Delhi Capitals,Kuldeep Yadav,Indian,Bowler,,DC
+9,Delhi Capitals,Auqib Nabi,Indian,Bowler,,DC
+9,Delhi Capitals,Kyle Jamieson,Overseas,Bowler,,DC
+9,Delhi Capitals,Dushmantha Chameera,Overseas,Bowler,,DC
+9,Delhi Capitals,Lungi Ngidi,Overseas,Bowler,,DC
+9,Delhi Capitals,Mitchell Starc,Overseas,Bowler,,DC
+9,Delhi Capitals,T Natrajan,Indian,Bowler,,DC
+10,Lucknow Super Giants,Rishabh Pant,Indian,Wicket Keeper,Captain,LSG
+10,Lucknow Super Giants,Nicholas Pooran,Overseas,Wicket Keeper,,LSG
+10,Lucknow Super Giants,Josh Inglis,Overseas,Wicket Keeper,,LSG
+10,Lucknow Super Giants,Himmat Singh,Indian,Batter,,LSG
+10,Lucknow Super Giants,Ayush Badoni,Indian,Batter,,LSG
+10,Lucknow Super Giants,Akshat Raghuvanshi,Indian,Batter,,LSG
+10,Lucknow Super Giants,Matthew Breetzke,Overseas,Batter,,LSG
+10,Lucknow Super Giants,Aiden Markram,Overseas,Batter,,LSG
+10,Lucknow Super Giants,Mukul Choudhary,Indian,Batter,,LSG
+10,Lucknow Super Giants,Abdul Samad,Indian,Batter,,LSG
+10,Lucknow Super Giants,Mitchell Marsh,Overseas,All Rounder,,LSG
+10,Lucknow Super Giants,Arshin Kulkarni,Indian,All Rounder,,LSG
+10,Lucknow Super Giants,Shahbaz Ahmed,Indian,All Rounder,,LSG
+10,Lucknow Super Giants,Wanindu Hasaranga,Overseas,All Rounder,,LSG
+10,Lucknow Super Giants,Akash Singh,Indian,Bowler,,LSG
+10,Lucknow Super Giants,Avesh Khan,Indian,Bowler,,LSG
+10,Lucknow Super Giants,Mohammed Shami,Indian,Bowler,,LSG
+10,Lucknow Super Giants,Prince Yadav,Indian,Bowler,,LSG
+10,Lucknow Super Giants,Naman Tiwari,Indian,Bowler,,LSG
+10,Lucknow Super Giants,Mayank Yadav,Indian,Bowler,,LSG
+10,Lucknow Super Giants,Digvesh Rathi,Indian,Bowler,,LSG
+10,Lucknow Super Giants,Arjun Tendulkar,Indian,Bowler,,LSG
+10,Lucknow Super Giants,Mohsin Khan,Indian,Bowler,,LSG
+10,Lucknow Super Giants,Manimaran Siddharth,Indian,Bowler,,LSG
+10,Lucknow Super Giants,Anrich Nortje,Overseas,Bowler,,LSG
