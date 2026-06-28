@@ -367,7 +367,41 @@ if page == "Home":
     )
     st.plotly_chart(trend_fig, use_container_width=True)
 
-    st.markdown("<div class='section-header'>Tool Features</div>", unsafe_allow_html=True)
+    # ── Team H2H Win Rate Heatmap ─────────────────────────────────────────────
+    st.markdown("<div class='section-header'>🆚 Head-to-Head Win Rate Matrix (2022–2026)</div>", unsafe_allow_html=True)
+    st.caption("Each cell shows Team A's win rate (%) against Team B. Darker = stronger record.")
+
+    all_teams_heatmap = sorted(list(set(team_h2h['team_a'].tolist() + team_h2h['team_b'].tolist())))
+    heatmap_matrix = pd.DataFrame(index=all_teams_heatmap, columns=all_teams_heatmap, dtype=float)
+
+    for _, row in team_h2h.iterrows():
+        heatmap_matrix.loc[row['team_a'], row['team_b']] = float(row['win_pct'])
+        if 'win_pct' in row:
+            heatmap_matrix.loc[row['team_b'], row['team_a']] = round(100 - float(row['win_pct']), 1)
+
+    z_vals = heatmap_matrix.values.tolist()
+    text_vals = [[str(v) + "%" if not pd.isna(v) else "-" for v in row] for row in heatmap_matrix.values]
+
+    fig_heatmap = go.Figure(go.Heatmap(
+        z=z_vals,
+        x=all_teams_heatmap,
+        y=all_teams_heatmap,
+        text=text_vals,
+        texttemplate="%{text}",
+        colorscale=[[0, '#1a3a5c'], [0.5, '#2563eb'], [1, '#60a5fa']],
+        showscale=True,
+        colorbar=dict(title=dict(text='Win %', font=dict(color='#e2e8f0')), tickfont=dict(color='#e2e8f0')),
+        zmin=0, zmax=100,
+        hoverongaps=False,
+    ))
+    fig_heatmap.update_layout(
+        paper_bgcolor='rgba(0,0,0,0)', plot_bgcolor='rgba(0,0,0,0)',
+        font_color='#e2e8f0', height=420,
+        xaxis=dict(title='Opponent', tickangle=-30, gridcolor='#1e2d45'),
+        yaxis=dict(title='Team', gridcolor='#1e2d45', autorange='reversed'),
+        margin=dict(l=0, r=0, t=10, b=10)
+    )
+    st.plotly_chart(fig_heatmap, use_container_width=True)
     f1, f2, f3, f4 = st.columns(4)
     features = [
         ("⚡", "XI Selector",       "Pick your best 11 for any match based on form, venue & opponent"),
@@ -503,6 +537,68 @@ elif page == "XI Selector":
         )
         st.plotly_chart(fig, use_container_width=True)
 
+        # ── Radar chart — player profile ──────────────────────────────────────
+        st.markdown("<div class='section-header'>🕸️ Player Profile Radar</div>", unsafe_allow_html=True)
+        st.caption("Compare up to 4 players from your selected XI across key performance dimensions.")
+
+        radar_players = st.multiselect(
+            "Select players to compare (max 4)",
+            options=xi_df['player'].tolist(),
+            default=xi_df['player'].tolist()[:3],
+            max_selections=4,
+            key="radar_select"
+        )
+
+        if radar_players:
+            categories = ['Batting SR', 'Batting Avg', 'Bowl Economy', 'Bowl Wickets', 'Venue Bonus']
+
+            def get_radar_vals(player, role):
+                vals = [0, 0, 0, 0, 0]
+                ob = bat_overall[bat_overall['striker'] == player]
+                if not ob.empty:
+                    vals[0] = min(ob.iloc[0]['strike_rate'] / 200 * 100, 100)
+                    vals[1] = min(ob.iloc[0]['average'] / 60 * 100, 100)
+                obw = bowl_overall[bowl_overall['bowler'] == player]
+                if not obw.empty:
+                    vals[2] = min((14 - obw.iloc[0]['economy']) / 8 * 100, 100)
+                    vals[3] = min(obw.iloc[0]['total_wickets'] / 20 * 100, 100)
+                vb = pvb[(pvb['striker'] == player) & (pvb['venue'] == venue)]
+                vbow = pvbow[(pvbow['bowler'] == player) & (pvbow['venue'] == venue)]
+                if not vb.empty:
+                    vals[4] = min(vb.iloc[0]['sr'] / 200 * 100, 100)
+                elif not vbow.empty:
+                    vals[4] = min((14 - vbow.iloc[0]['economy']) / 8 * 100, 100)
+                return [max(v, 0) for v in vals]
+
+            radar_colors = ['#60a5fa', '#4ade80', '#f87171', '#fb923c']
+            fig_radar = go.Figure()
+            for i, p in enumerate(radar_players):
+                row_data = xi_df[xi_df['player'] == p]
+                role = row_data.iloc[0]['role'] if not row_data.empty else 'Batter'
+                vals = get_radar_vals(p, role)
+                vals_closed = vals + [vals[0]]
+                cats_closed = categories + [categories[0]]
+                fig_radar.add_trace(go.Scatterpolar(
+                    r=vals_closed, theta=cats_closed,
+                    fill='toself', name=p,
+                    line=dict(color=radar_colors[i % len(radar_colors)], width=2),
+                    fillcolor=radar_colors[i % len(radar_colors)].replace(')', ', 0.15)').replace('rgb', 'rgba') if 'rgb' in radar_colors[i % len(radar_colors)] else radar_colors[i % len(radar_colors)],
+                    opacity=0.8
+                ))
+            fig_radar.update_layout(
+                polar=dict(
+                    bgcolor='rgba(0,0,0,0)',
+                    radialaxis=dict(visible=True, range=[0, 100], gridcolor='#1e2d45', color='#64748b', tickfont=dict(size=9)),
+                    angularaxis=dict(gridcolor='#1e2d45', color='#94a3b8')
+                ),
+                paper_bgcolor='rgba(0,0,0,0)',
+                font_color='#e2e8f0',
+                height=420,
+                legend=dict(orientation='h', yanchor='bottom', y=-0.15),
+                margin=dict(l=40, r=40, t=20, b=20)
+            )
+            st.plotly_chart(fig_radar, use_container_width=True)
+
         # ── Full squad rankings ───────────────────────────────────────────────
         with st.expander("📋 View Full Squad Rankings"):
             disp = full_squad[['player', 'role', 'nationality', 'score', 'reasons']].copy()
@@ -580,6 +676,34 @@ elif page == "Form Analysis":
                 log['date'] = log['date'].dt.strftime('%d %b %Y')
                 log.columns = ['Date', 'Team', 'Venue', 'Runs', 'Balls', 'SR', '4s', '6s']
                 st.dataframe(log, use_container_width=True, hide_index=True)
+
+            # ── Squad scatter — SR vs Average ─────────────────────────────────
+            st.markdown("<div class='section-header'>⚡ Batting Landscape — Squad SR vs Average</div>", unsafe_allow_html=True)
+            st.caption("All batters in the dataset. The selected player is highlighted in gold.")
+            scatter_df = bat_overall.copy()
+            scatter_df['highlight'] = scatter_df['striker'].apply(
+                lambda x: '⭐ ' + x if x == player else 'Others'
+            )
+            scatter_df['size'] = scatter_df['striker'].apply(lambda x: 18 if x == player else 7)
+            fig_scatter = px.scatter(
+                scatter_df,
+                x='average', y='strike_rate',
+                color='highlight',
+                size='size',
+                hover_name='striker',
+                color_discrete_map={'⭐ ' + player: '#f5a623', 'Others': '#3b82f6'},
+                labels={'average': 'Batting Average', 'strike_rate': 'Strike Rate'},
+            )
+            fig_scatter.update_layout(
+                paper_bgcolor='rgba(0,0,0,0)', plot_bgcolor='rgba(0,0,0,0)',
+                font_color='#e2e8f0', height=360,
+                xaxis=dict(gridcolor='#1e2d45', title='Batting Average'),
+                yaxis=dict(gridcolor='#1e2d45', title='Strike Rate'),
+                legend_title_text='',
+                legend=dict(orientation='h', yanchor='bottom', y=1.02),
+                margin=dict(l=0, r=0, t=10, b=10)
+            )
+            st.plotly_chart(fig_scatter, use_container_width=True)
 
     with tab2:
         form_b = get_form_bowling(player, n_matches)
